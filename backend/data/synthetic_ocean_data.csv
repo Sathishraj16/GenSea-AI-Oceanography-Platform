@@ -1,0 +1,1001 @@
+date,lat,lon,region,sea_temperature,salinity,fish_stock_index,biodiversity_index,eDNA_detected_species,invasive_species_flag
+2024-10-26,41.88,-127.7486,Pacific Northwest,25.64,31.07,41.69,51.9,"Salmon,Cod,Sardine",no
+2025-03-30,-17.5591,82.6382,Indian Ocean,24.67,34.1,67.94,70.11,"Grouper,Tuna",no
+2024-10-27,15.1234,66.6354,Arabian Sea,19.7,33.72,59.79,78.28,"Mackerel,Tuna,Grouper",no
+2025-05-29,38.9436,-28.4031,North Atlantic,22.19,34.62,65.92,87.6,"Sardine,Salmon,Anchovy",no
+2025-02-20,-17.4413,81.8479,Indian Ocean,26.77,33.83,44.05,54.25,"Sardine,Mackerel",no
+2025-09-02,-28.3705,-11.9965,South Atlantic,21.39,34.18,65.4,74.58,"Mackerel,Salmon",no
+2025-07-24,-14.7973,80.8674,Indian Ocean,23.79,31.81,55.23,48.43,"Snapper,Salmon",no
+2024-10-07,19.4848,84.4025,Bay of Bengal,25.81,31.48,51.03,54.33,"Tuna,Salmon",no
+2024-10-27,14.38,110.9538,South China Sea,17.23,35.29,66.54,43.26,"Salmon,Mackerel,Anchovy",no
+2025-07-20,46.4915,-129.5727,Pacific Northwest,24.14,33.36,59.3,69.3,"Mackerel,Sardine",no
+2025-02-23,43.0142,-131.0892,Pacific Northwest,17.71,32.21,74.29,50.4,"Mackerel,Tuna,Snapper",no
+2025-09-01,-13.6604,81.9962,Indian Ocean,19.41,33.37,66.38,41.58,"Cod,Grouper",no
+2025-01-27,-32.9917,-8.8007,South Atlantic,14.57,33.43,76.13,57.89,"Anchovy,Snapper",no
+2025-07-08,-30.6163,-12.8501,South Atlantic,17.97,35.26,52.66,63.91,"Mackerel,Tuna",no
+2025-04-11,-34.3382,-9.7836,South Atlantic,16.82,34.35,67.86,82.48,"Cod,Anchovy",no
+2025-05-11,18.5378,64.66,Arabian Sea,28.16,35.25,53.26,76.3,"Cod,Sardine",no
+2025-07-10,9.2203,110.8306,South China Sea,11.74,34.95,55.26,42.59,"Anchovy,Tuna",no
+2025-03-13,-27.4856,-4.0098,South Atlantic,35.0,34.62,26.1,36.31,"Sardine,Tuna,Anchovy",no
+2025-09-07,-31.2461,-11.8363,South Atlantic,19.16,35.6,69.26,55.1,"Tuna,Mackerel",no
+2025-01-17,10.5411,111.8387,South China Sea,30.61,34.2,54.61,58.03,"Sardine,Salmon",no
+2024-12-19,12.8243,93.3854,Bay of Bengal,15.07,35.26,55.11,69.89,"Snapper,Anchovy",no
+2025-05-08,11.8777,110.0356,South China Sea,22.68,33.32,48.39,46.25,"Anchovy,Grouper,Mackerel",no
+2024-10-27,45.48,-130.3559,Pacific Northwest,21.71,35.96,64.76,50.27,"Tuna,Salmon,Anchovy",no
+2025-08-13,49.6073,-129.4503,Pacific Northwest,12.65,31.95,75.82,75.42,"Anchovy,Mackerel",no
+2025-06-23,44.3843,-33.3211,North Atlantic,14.63,34.96,59.32,60.11,"Snapper,Mackerel",no
+2025-08-31,59.2224,-147.7282,Gulf of Alaska,23.86,30.92,57.79,39.5,"Cod,Sardine",no
+2025-02-23,53.9976,-145.2523,Gulf of Alaska,12.04,34.05,53.24,60.84,"Salmon,Cod",no
+2025-03-28,22.0122,63.5365,Arabian Sea,15.82,33.66,68.07,65.44,"Anchovy,Cod,Snapper",no
+2025-06-15,15.6847,94.5524,Bay of Bengal,31.26,32.72,40.6,41.04,"Cod,Tuna",no
+2025-07-30,-26.3824,-12.1873,South Atlantic,16.08,30.78,64.52,36.15,"Sardine,Salmon",no
+2025-06-25,43.4117,-132.6306,Pacific Northwest,19.43,31.36,52.46,77.37,"Snapper,Grouper,Anchovy",no
+2025-09-22,45.5107,-21.2848,North Atlantic,12.97,33.45,63.36,82.98,"Salmon,Tuna,Grouper",no
+2025-08-27,17.332,88.3043,Bay of Bengal,17.74,33.8,55.74,61.14,"Snapper,Grouper",no
+2024-12-04,10.334,113.4146,South China Sea,26.08,34.23,57.36,64.47,"Grouper,Snapper",no
+2025-07-10,12.9495,111.7081,South China Sea,32.56,36.36,44.74,44.04,"Sardine,Mackerel,Tuna",no
+2025-08-27,11.6628,90.5734,Bay of Bengal,21.58,34.72,45.4,72.53,"Snapper,Tuna,Salmon",no
+2024-12-20,-16.4146,80.7912,Indian Ocean,20.31,33.56,64.34,59.78,"Tuna,Grouper,Sardine",no
+2025-09-11,10.3,63.2894,Arabian Sea,21.06,34.44,60.16,41.7,"Anchovy,Cod,Tuna",no
+2025-05-02,50.3984,-145.4085,Gulf of Alaska,18.03,33.91,59.41,60.53,"Salmon,Cod",no
+2025-05-26,17.1969,115.5322,South China Sea,22.63,36.62,65.12,61.86,"Tuna,Grouper,Mackerel",no
+2025-06-30,9.9077,114.9688,South China Sea,12.93,35.17,57.95,73.19,"Grouper,Cod,Anchovy",no
+2025-05-08,20.1923,59.2839,Arabian Sea,19.6,32.24,61.62,74.34,"Grouper,Snapper,Sardine",no
+2025-09-22,11.9588,87.0983,Bay of Bengal,12.7,32.99,62.52,73.83,"Mackerel,Snapper,Anchovy",no
+2025-03-16,-14.0869,80.2161,Indian Ocean,22.48,36.42,40.4,45.79,"Snapper,Salmon",no
+2025-07-07,59.4278,-146.8949,Gulf of Alaska,25.08,33.14,63.98,73.54,"Salmon,Tuna",no
+2025-07-19,40.811,-32.59,North Atlantic,19.11,33.77,71.6,75.85,"Grouper,Salmon,Cod",no
+2025-06-20,49.4444,-132.2308,Pacific Northwest,15.07,34.3,72.58,63.62,"Cod,Snapper",no
+2024-09-25,47.5255,-128.3377,Pacific Northwest,33.97,33.69,18.03,82.71,"Mackerel,Salmon,Tuna",no
+2025-04-10,-26.0713,-14.8068,South Atlantic,12.49,31.6,51.04,58.27,"Cod,Sardine",no
+2025-06-20,40.7617,-136.9303,Pacific Northwest,20.33,33.29,69.94,69.89,"Cod,Snapper,Grouper",no
+2024-10-02,45.4147,-127.7196,Pacific Northwest,21.38,34.8,56.2,58.87,"Cod,Salmon,Mackerel",no
+2025-07-16,53.8188,-146.4365,Gulf of Alaska,18.4,33.82,77.49,40.2,"Sardine,Anchovy",no
+2025-09-10,37.9992,-132.0348,Pacific Northwest,24.5,33.57,58.98,75.93,"Anchovy,Grouper",no
+2025-03-05,12.6916,91.0608,Bay of Bengal,20.55,32.74,58.95,40.95,"Snapper,Grouper",no
+2024-09-29,47.4108,-124.8377,Pacific Northwest,11.71,34.59,47.01,67.75,"Sardine,Anchovy",no
+2025-03-10,14.7849,110.185,South China Sea,16.8,32.4,61.05,62.11,"Anchovy,Salmon,Snapper",no
+2025-08-08,46.0858,-126.038,Pacific Northwest,17.94,31.78,80.56,49.95,"Grouper,Mackerel,Anchovy",no
+2024-11-20,54.6066,-146.9537,Gulf of Alaska,31.71,37.12,43.28,51.34,"Snapper,Salmon",no
+2025-05-06,12.9992,111.9224,South China Sea,21.88,32.75,46.34,33.87,"Tuna,Salmon",no
+2025-08-25,54.1204,-142.1883,Gulf of Alaska,26.64,32.56,56.21,52.9,"Cod,Salmon",no
+2025-04-26,19.8575,62.9822,Arabian Sea,26.38,32.29,53.3,87.61,"Grouper,Salmon,Snapper",no
+2025-07-16,45.2746,-128.2577,Pacific Northwest,19.66,33.74,58.89,68.89,"Grouper,Cod,Salmon",no
+2025-02-11,41.8375,-28.0032,North Atlantic,26.51,34.55,50.11,67.7,"Mackerel,Cod",no
+2025-06-17,12.5058,62.9932,Arabian Sea,8.06,31.76,63.75,64.53,"Tuna,Sardine",no
+2025-05-25,9.1064,62.3695,Arabian Sea,34.52,34.65,31.36,67.32,"Cod,Mackerel",no
+2025-06-25,40.2984,-30.2583,North Atlantic,24.74,34.52,63.19,54.15,"Grouper,Snapper",no
+2025-08-25,15.0896,61.3369,Arabian Sea,28.01,33.71,64.01,58.25,"Grouper,Cod,Anchovy",no
+2025-07-25,-14.2253,84.6942,Indian Ocean,17.83,32.59,65.17,63.37,"Anchovy,Sardine,Salmon",no
+2024-12-03,-31.6163,-6.5566,South Atlantic,5.63,32.82,28.4,49.19,"Snapper,Cod",no
+2025-04-15,11.2399,111.5224,South China Sea,21.22,32.49,70.63,65.39,"Sardine,Salmon,Snapper",no
+2025-01-22,40.8893,-23.8948,North Atlantic,19.48,33.54,59.51,50.31,"Grouper,Mackerel",no
+2025-04-24,10.4587,109.3336,South China Sea,19.58,34.5,67.36,53.31,"Mackerel,Grouper",no
+2025-01-17,39.5211,-31.9587,North Atlantic,23.29,34.28,44.94,62.77,"Mackerel,Sardine",no
+2024-11-25,15.5695,82.6355,Bay of Bengal,28.02,35.87,47.44,60.0,"Grouper,Cod,Mackerel",no
+2025-01-05,39.1187,-33.2164,North Atlantic,24.29,37.0,45.66,39.97,"Grouper,Anchovy,Snapper",no
+2025-02-23,41.3329,-129.2529,Pacific Northwest,30.93,31.52,31.33,47.53,"Cod,Salmon,Anchovy",no
+2025-08-09,-29.275,-15.3249,South Atlantic,23.09,33.13,72.56,53.14,"Tuna,Cod,Grouper",no
+2024-12-30,20.2888,65.3443,Arabian Sea,9.89,34.81,43.43,63.79,"Cod,Sardine,Tuna",no
+2025-05-21,9.5802,108.1521,South China Sea,24.28,34.36,51.29,80.6,"Mackerel,Anchovy,Snapper",no
+2025-03-04,-29.1933,-11.859,South Atlantic,22.83,33.2,56.23,77.35,"Snapper,Tuna",no
+2025-02-22,-25.1672,-2.352,South Atlantic,17.57,31.09,66.03,47.04,"Anchovy,Mackerel,Cod",no
+2025-08-06,-13.2613,81.5735,Indian Ocean,11.03,35.05,76.59,61.82,"Cod,Mackerel",no
+2025-04-06,-13.1542,74.808,Indian Ocean,20.99,33.41,82.51,59.98,"Mackerel,Anchovy",no
+2024-10-24,19.7618,64.9582,Arabian Sea,14.79,34.27,75.7,59.78,"Anchovy,Tuna",no
+2025-09-10,37.2927,-31.027,North Atlantic,19.51,31.44,50.82,57.99,"Snapper,Tuna,Cod",no
+2025-09-18,-27.6455,-9.1829,South Atlantic,15.72,32.02,73.79,59.32,"Mackerel,Salmon,Anchovy",no
+2024-09-24,56.2606,-146.8369,Gulf of Alaska,19.0,35.23,74.25,73.89,"Anchovy,Sardine",no
+2024-12-26,10.4975,110.6938,South China Sea,17.13,35.19,83.23,53.56,"Tuna,Salmon,Grouper",no
+2025-07-05,44.2627,-127.1438,Pacific Northwest,6.49,32.76,39.15,30.96,"Snapper,Mackerel,Tuna",yes
+2025-09-18,44.3967,-126.6611,Pacific Northwest,18.53,32.45,68.37,69.86,"Sardine,Cod",no
+2025-03-06,-28.3244,-10.6646,South Atlantic,23.88,33.98,65.25,52.48,"Salmon,Snapper",yes
+2024-11-03,51.3523,-152.6904,Gulf of Alaska,24.11,33.47,47.55,61.21,"Salmon,Tuna,Mackerel",no
+2025-04-30,13.5101,61.2313,Arabian Sea,28.77,34.42,56.14,49.2,"Sardine,Grouper",no
+2025-08-05,40.1748,-28.3538,North Atlantic,18.87,34.42,69.83,72.25,"Anchovy,Tuna,Sardine",yes
+2024-11-19,-36.7418,-6.9948,South Atlantic,27.13,32.47,33.15,58.53,"Snapper,Tuna",no
+2025-04-06,46.5489,-131.1152,Pacific Northwest,14.64,34.02,60.29,52.73,"Anchovy,Tuna,Salmon",no
+2025-08-21,43.4081,-32.7626,North Atlantic,25.13,34.96,60.17,75.2,"Salmon,Grouper,Snapper",no
+2025-05-14,41.9107,-28.9776,North Atlantic,9.3,34.13,47.03,49.01,"Grouper,Tuna",no
+2025-01-12,-10.9223,80.7656,Indian Ocean,28.1,34.02,51.82,51.79,"Grouper,Anchovy,Mackerel",no
+2025-07-10,51.092,-148.1536,Gulf of Alaska,19.52,36.7,75.9,51.66,"Sardine,Anchovy,Cod",no
+2024-10-27,-30.6087,-13.2473,South Atlantic,19.09,32.88,55.31,65.54,"Grouper,Sardine,Anchovy",no
+2025-09-15,44.6319,-127.0129,Pacific Northwest,26.36,35.54,53.68,47.17,"Cod,Snapper,Sardine",no
+2025-04-03,16.1378,90.862,Bay of Bengal,26.6,33.8,40.36,60.18,"Grouper,Anchovy",no
+2025-09-03,-31.7337,-9.2413,South Atlantic,16.98,33.06,71.07,55.47,"Anchovy,Mackerel",no
+2025-03-14,-18.4183,78.5563,Indian Ocean,28.63,32.26,27.58,33.94,"Anchovy,Snapper",no
+2025-05-17,17.6472,67.6426,Arabian Sea,3.96,34.59,57.54,48.5,"Anchovy,Snapper",no
+2025-06-06,-32.683,-10.9788,South Atlantic,28.56,36.76,45.51,74.08,"Mackerel,Snapper,Salmon",no
+2025-07-14,-30.2799,-9.6068,South Atlantic,22.19,38.0,70.13,36.51,"Sardine,Cod,Grouper",no
+2025-04-22,53.5307,-145.2742,Gulf of Alaska,20.19,34.42,65.77,66.95,"Mackerel,Cod,Salmon",no
+2024-10-11,13.9997,109.0539,South China Sea,11.35,33.91,57.53,56.24,"Cod,Anchovy",no
+2025-09-15,38.7792,-31.7546,North Atlantic,19.72,34.42,56.48,71.6,"Snapper,Tuna",no
+2025-05-27,9.1242,86.963,Bay of Bengal,18.67,33.84,68.37,66.93,"Anchovy,Salmon",no
+2025-05-06,51.4841,-151.28,Gulf of Alaska,21.73,35.87,58.22,25.64,"Cod,Mackerel,Tuna",no
+2025-06-22,16.3268,62.7748,Arabian Sea,20.23,33.53,76.03,54.55,"Cod,Tuna,Grouper",no
+2025-06-21,7.3931,113.1691,South China Sea,20.62,33.78,80.65,56.43,"Sardine,Salmon",no
+2024-12-18,36.169,-29.7902,North Atlantic,13.54,32.87,65.06,66.03,"Grouper,Snapper,Cod",no
+2025-08-10,21.4725,68.3089,Arabian Sea,23.18,36.05,40.84,50.96,"Tuna,Grouper,Cod",no
+2024-10-21,10.2857,111.5015,South China Sea,31.29,33.75,47.55,60.94,"Tuna,Sardine,Snapper",no
+2025-02-02,19.345,67.4959,Arabian Sea,29.88,34.46,52.13,48.87,"Grouper,Sardine",no
+2025-08-09,14.5979,112.6348,South China Sea,25.32,34.74,67.37,64.79,"Cod,Mackerel",no
+2025-05-23,3.2082,113.1487,South China Sea,-1.89,31.41,34.74,57.8,"Cod,Grouper",no
+2025-04-16,49.1116,-131.4521,Pacific Northwest,33.46,34.0,43.17,84.39,"Salmon,Grouper",no
+2025-04-05,14.6708,86.8932,Bay of Bengal,11.81,33.62,50.2,74.17,"Sardine,Salmon",no
+2025-03-01,17.6815,64.6694,Arabian Sea,23.7,32.5,48.18,70.76,"Cod,Sardine",no
+2025-05-22,-28.6686,-8.6099,South Atlantic,10.82,34.34,62.99,67.77,"Mackerel,Tuna,Salmon",yes
+2025-09-19,-29.0069,-10.9079,South Atlantic,17.1,35.31,83.0,80.0,"Cod,Salmon",no
+2025-02-14,16.0582,89.3005,Bay of Bengal,20.73,34.2,72.78,63.31,"Anchovy,Mackerel",no
+2025-06-05,-28.0983,-9.991,South Atlantic,22.04,35.01,58.17,69.05,"Salmon,Sardine",yes
+2025-08-13,44.3269,-31.5022,North Atlantic,10.07,32.43,43.93,57.79,"Tuna,Grouper",no
+2025-06-30,16.8591,88.0196,Bay of Bengal,21.9,34.61,68.37,36.63,"Grouper,Snapper",no
+2025-04-24,-29.8918,-10.0139,South Atlantic,26.27,35.78,55.48,50.09,"Sardine,Salmon,Grouper",yes
+2025-04-08,54.9958,-145.0416,Gulf of Alaska,16.65,35.21,74.08,47.5,"Sardine,Mackerel",no
+2025-06-08,-14.6942,77.713,Indian Ocean,14.84,33.19,69.12,49.5,"Sardine,Grouper",no
+2024-10-01,17.3878,64.3289,Arabian Sea,34.67,31.93,51.38,56.47,"Anchovy,Sardine,Salmon",no
+2025-01-13,56.3342,-148.4611,Gulf of Alaska,28.72,33.32,59.87,53.84,"Mackerel,Tuna",yes
+2024-10-08,-13.6349,84.3354,Indian Ocean,19.54,33.7,55.78,60.77,"Tuna,Mackerel",no
+2025-01-06,-29.3196,-6.043,South Atlantic,35.0,33.12,50.35,63.53,"Tuna,Cod",no
+2025-04-26,12.1857,112.3312,South China Sea,17.55,31.9,53.66,62.35,"Cod,Mackerel,Anchovy",no
+2025-03-27,15.0255,89.3848,Bay of Bengal,21.08,33.02,76.1,79.03,"Sardine,Mackerel,Salmon",no
+2024-11-06,-26.2741,-6.6097,South Atlantic,23.68,34.9,63.83,47.34,"Snapper,Grouper,Cod",no
+2025-05-30,-17.3838,83.9107,Indian Ocean,25.04,36.23,53.2,40.02,"Cod,Salmon,Tuna",no
+2024-12-30,55.237,-144.599,Gulf of Alaska,17.83,34.53,59.78,67.76,"Anchovy,Grouper",yes
+2024-10-25,-30.7075,-10.5525,South Atlantic,18.38,36.66,68.26,48.79,"Tuna,Snapper",no
+2024-12-30,-15.7892,77.9424,Indian Ocean,28.29,33.75,62.3,64.5,"Snapper,Cod,Tuna",no
+2024-12-06,-14.9886,85.1564,Indian Ocean,6.08,31.0,40.73,50.16,"Anchovy,Salmon,Snapper",no
+2025-06-28,-16.1527,83.0571,Indian Ocean,26.18,34.28,63.26,66.89,"Tuna,Salmon",no
+2024-11-28,-14.6682,80.004,Indian Ocean,28.84,30.32,34.15,32.37,"Mackerel,Cod",no
+2025-09-04,10.478,84.0445,Bay of Bengal,14.83,37.69,81.69,41.63,"Snapper,Grouper",yes
+2025-08-29,6.2756,111.6494,South China Sea,14.01,33.87,46.02,55.22,"Grouper,Tuna,Cod",no
+2025-06-26,19.2524,60.0385,Arabian Sea,25.13,32.8,62.07,58.87,"Sardine,Cod",no
+2025-04-30,-28.9039,-8.1611,South Atlantic,19.15,36.3,77.77,50.43,"Anchovy,Grouper,Sardine",no
+2025-01-26,17.8815,108.316,South China Sea,14.44,36.23,52.3,37.99,"Mackerel,Tuna",no
+2025-04-02,14.6928,85.0483,Bay of Bengal,15.95,32.93,57.11,87.04,"Sardine,Mackerel",no
+2025-08-29,13.5328,86.4421,Bay of Bengal,15.72,30.02,51.66,23.38,"Tuna,Sardine,Anchovy",no
+2025-02-19,15.9749,111.8667,South China Sea,27.74,34.62,58.34,51.11,"Tuna,Grouper",no
+2024-10-16,53.2701,-146.3214,Gulf of Alaska,23.4,33.18,47.98,46.67,"Tuna,Snapper",no
+2025-01-07,18.2595,64.981,Arabian Sea,15.24,34.04,70.2,72.22,"Cod,Tuna,Grouper",no
+2025-07-12,51.9961,-142.9492,Gulf of Alaska,16.81,35.57,68.31,52.22,"Tuna,Anchovy,Salmon",no
+2025-06-17,-19.6781,82.9019,Indian Ocean,29.1,32.8,50.82,50.32,"Mackerel,Grouper",no
+2025-09-13,44.8844,-124.7811,Pacific Northwest,17.11,35.5,69.19,67.05,"Grouper,Mackerel",no
+2025-06-27,54.6535,-150.5082,Gulf of Alaska,23.97,34.98,63.99,78.57,"Sardine,Anchovy,Snapper",no
+2025-07-30,13.1192,110.1292,South China Sea,20.14,33.1,81.92,64.87,"Mackerel,Sardine",yes
+2025-01-24,-36.5118,-16.0423,South Atlantic,24.78,34.09,58.95,48.63,"Tuna,Salmon,Anchovy",no
+2025-09-19,47.4726,-129.4909,Pacific Northwest,17.37,33.41,47.44,65.13,"Anchovy,Mackerel",no
+2024-10-21,38.0157,-33.4724,North Atlantic,14.21,34.08,41.57,71.97,"Salmon,Sardine,Anchovy",no
+2024-12-22,32.5579,-32.9893,North Atlantic,27.4,30.0,47.73,30.84,"Mackerel,Anchovy,Cod",no
+2024-12-13,16.2119,88.6964,Bay of Bengal,31.02,33.7,47.73,45.66,"Grouper,Tuna,Snapper",no
+2025-04-23,53.3177,-148.0667,Gulf of Alaska,10.62,34.34,64.92,66.8,"Sardine,Anchovy",no
+2025-03-06,14.2261,106.366,South China Sea,13.55,35.31,63.8,63.37,"Anchovy,Snapper",no
+2024-12-22,19.9737,72.1322,Arabian Sea,18.72,32.8,72.84,64.28,"Tuna,Mackerel",no
+2025-02-05,46.9295,-29.0195,North Atlantic,15.61,35.37,64.12,55.1,"Cod,Grouper,Mackerel",no
+2025-06-29,19.0579,69.7389,Arabian Sea,22.8,33.44,55.33,57.25,"Snapper,Tuna,Grouper",no
+2025-07-10,20.7489,58.8004,Arabian Sea,25.17,33.43,59.43,48.63,"Anchovy,Salmon",no
+2025-05-27,57.8788,-152.5443,Gulf of Alaska,24.97,34.61,40.0,61.67,"Sardine,Grouper,Tuna",no
+2025-01-11,15.5318,87.8737,Bay of Bengal,28.84,35.84,19.65,52.0,"Tuna,Snapper,Cod",no
+2025-01-04,40.2825,-26.2537,North Atlantic,13.48,34.5,51.8,54.41,"Tuna,Anchovy",no
+2024-10-25,46.3866,-135.6137,Pacific Northwest,31.17,34.9,41.83,67.39,"Mackerel,Cod",no
+2024-10-08,44.028,-130.6122,Pacific Northwest,17.05,33.13,75.05,63.72,"Salmon,Grouper",no
+2025-05-22,13.5396,110.7435,South China Sea,33.38,31.65,51.85,69.66,"Salmon,Mackerel,Tuna",no
+2025-03-15,-12.0135,82.9134,Indian Ocean,20.17,33.67,63.57,68.06,"Sardine,Snapper",no
+2024-11-30,12.2657,89.4733,Bay of Bengal,25.53,34.98,62.4,56.84,"Grouper,Anchovy,Sardine",no
+2025-07-21,10.0936,87.7108,Bay of Bengal,19.5,33.34,37.45,46.73,"Sardine,Cod",no
+2025-08-26,-13.9182,75.8279,Indian Ocean,28.63,33.78,51.64,91.83,"Sardine,Snapper",no
+2025-03-23,53.2203,-148.9766,Gulf of Alaska,23.06,33.84,55.93,81.82,"Cod,Tuna,Snapper",no
+2024-12-03,55.2722,-142.644,Gulf of Alaska,22.14,35.44,54.47,47.53,"Cod,Mackerel,Anchovy",no
+2025-05-11,40.1208,-33.8592,North Atlantic,11.84,31.86,40.0,55.61,"Salmon,Mackerel,Sardine",no
+2025-02-07,38.2188,-130.5723,Pacific Northwest,19.02,37.14,53.38,44.59,"Grouper,Mackerel,Snapper",no
+2025-02-15,19.6899,64.3438,Arabian Sea,21.98,35.17,53.95,69.7,"Snapper,Sardine",no
+2025-07-13,45.5362,-131.8489,Pacific Northwest,19.86,33.07,55.56,56.09,"Salmon,Tuna",no
+2024-12-20,51.5497,-145.8641,Gulf of Alaska,12.91,33.15,53.58,76.65,"Grouper,Salmon,Sardine",no
+2024-12-17,41.4962,-36.3216,North Atlantic,19.74,37.0,67.84,50.83,"Grouper,Snapper",no
+2025-06-06,6.0076,106.953,South China Sea,21.26,32.93,76.6,55.86,"Mackerel,Cod",no
+2025-05-09,36.751,-130.7024,Pacific Northwest,18.87,33.36,79.05,76.2,"Tuna,Salmon,Mackerel",yes
+2025-04-23,41.8518,-28.3339,North Atlantic,21.86,35.47,50.64,81.74,"Salmon,Mackerel",no
+2024-12-04,34.938,-32.7908,North Atlantic,29.1,33.61,56.2,65.89,"Cod,Anchovy,Grouper",no
+2025-07-21,-15.71,74.6578,Indian Ocean,15.18,34.83,68.32,42.06,"Salmon,Mackerel,Snapper",no
+2025-05-11,10.9036,107.8723,South China Sea,16.23,32.91,74.17,69.24,"Snapper,Tuna,Cod",no
+2025-08-26,40.4198,-32.4497,North Atlantic,13.12,32.59,53.89,43.99,"Mackerel,Tuna,Sardine",no
+2024-09-25,35.2387,-29.9246,North Atlantic,18.68,34.51,68.51,45.0,"Cod,Mackerel",no
+2025-05-28,18.0863,80.3574,Bay of Bengal,22.07,35.78,60.32,62.68,"Mackerel,Grouper",no
+2024-11-14,40.1373,-137.033,Pacific Northwest,25.66,32.52,50.13,40.98,"Grouper,Salmon",no
+2025-04-04,52.8113,-146.8661,Gulf of Alaska,22.72,34.48,62.96,81.53,"Salmon,Snapper,Anchovy",no
+2024-10-25,-26.6019,-6.2064,South Atlantic,11.47,33.53,70.52,68.75,"Cod,Mackerel,Snapper",no
+2024-12-10,53.8486,-147.1353,Gulf of Alaska,18.49,33.94,69.81,56.54,"Cod,Sardine,Anchovy",no
+2025-08-29,-35.331,-9.028,South Atlantic,15.44,34.87,65.34,69.81,"Grouper,Snapper",no
+2025-02-14,58.3962,-155.0329,Gulf of Alaska,29.54,34.56,57.69,47.55,"Snapper,Cod,Mackerel",no
+2025-04-08,17.9489,64.8492,Arabian Sea,26.51,31.35,62.72,51.86,"Cod,Grouper,Tuna",no
+2025-09-18,13.5091,104.7577,South China Sea,23.89,31.76,58.75,52.38,"Tuna,Cod,Snapper",no
+2025-08-03,42.9176,-131.5198,Pacific Northwest,27.64,34.8,46.87,58.14,"Salmon,Cod",no
+2025-01-24,6.7206,114.2554,South China Sea,20.77,37.58,53.46,45.87,"Snapper,Anchovy,Cod",no
+2024-10-19,52.9114,-147.3281,Gulf of Alaska,20.01,34.42,58.99,61.81,"Mackerel,Anchovy,Snapper",no
+2025-03-18,-13.6499,79.3177,Indian Ocean,10.31,35.48,58.26,48.87,"Salmon,Cod,Snapper",yes
+2025-03-09,-18.0762,78.3866,Indian Ocean,27.37,33.04,57.66,53.74,"Snapper,Mackerel",yes
+2025-07-28,42.6192,-31.6044,North Atlantic,10.56,31.93,49.81,39.65,"Tuna,Anchovy",no
+2025-02-20,62.1238,-153.2131,Gulf of Alaska,21.22,32.31,58.62,58.24,"Tuna,Mackerel,Cod",no
+2025-08-28,60.7087,-149.3603,Gulf of Alaska,21.56,35.54,61.24,50.34,"Snapper,Sardine,Grouper",no
+2025-09-13,-15.3395,76.9619,Indian Ocean,20.76,33.12,59.2,67.9,"Snapper,Sardine,Tuna",no
+2024-11-11,7.8069,110.0119,South China Sea,31.54,35.69,43.9,45.26,"Salmon,Tuna",no
+2024-10-25,40.1126,-30.2726,North Atlantic,19.82,33.68,51.95,57.19,"Mackerel,Snapper,Salmon",no
+2024-11-24,-15.5687,77.5407,Indian Ocean,20.67,33.42,79.44,68.16,"Salmon,Cod",no
+2025-09-06,37.676,-31.731,North Atlantic,21.88,33.26,71.16,52.02,"Sardine,Salmon,Cod",no
+2024-11-03,13.3031,90.2976,Bay of Bengal,23.77,36.56,81.13,39.81,"Grouper,Tuna",yes
+2025-01-21,42.6672,-131.8902,Pacific Northwest,13.66,32.42,59.87,42.51,"Grouper,Snapper,Salmon",no
+2025-01-22,26.4287,62.6458,Arabian Sea,20.43,32.06,82.2,68.72,"Mackerel,Sardine",no
+2025-08-29,-14.368,76.6357,Indian Ocean,28.77,35.21,49.41,29.69,"Anchovy,Tuna",no
+2025-01-24,-11.3613,83.3275,Indian Ocean,10.45,34.45,65.05,42.84,"Grouper,Cod",yes
+2025-05-17,-30.9023,-15.5565,South Atlantic,18.05,33.51,68.43,55.78,"Snapper,Tuna",no
+2025-02-17,41.3274,-30.9133,North Atlantic,17.54,34.14,49.88,70.03,"Mackerel,Salmon,Grouper",no
+2024-11-20,-12.1178,74.1416,Indian Ocean,8.16,34.41,50.24,64.99,"Grouper,Sardine,Cod",no
+2025-06-25,14.7979,113.4519,South China Sea,18.44,30.84,76.82,63.85,"Snapper,Cod,Grouper",no
+2025-05-25,17.0214,89.5816,Bay of Bengal,29.35,32.69,45.03,67.4,"Mackerel,Sardine,Tuna",no
+2024-10-07,16.2438,88.736,Bay of Bengal,20.53,34.33,62.36,81.09,"Mackerel,Sardine",no
+2025-02-25,18.033,66.6369,Arabian Sea,11.02,32.03,35.65,55.57,"Snapper,Anchovy",no
+2024-11-27,46.9841,-131.9246,Pacific Northwest,21.39,33.55,69.95,68.46,"Sardine,Tuna",no
+2025-07-14,-26.8688,-8.8199,South Atlantic,11.62,34.98,46.39,77.03,"Anchovy,Sardine",no
+2025-05-10,18.4717,63.3729,Arabian Sea,24.07,33.44,60.21,72.68,"Snapper,Salmon,Mackerel",no
+2024-11-14,36.4169,-33.1934,North Atlantic,9.03,35.09,70.15,76.63,"Anchovy,Mackerel,Cod",no
+2025-06-18,22.2663,62.6296,Arabian Sea,20.61,30.99,67.45,37.18,"Mackerel,Sardine",no
+2025-04-02,56.6286,-144.9265,Gulf of Alaska,15.3,32.29,43.04,53.28,"Anchovy,Mackerel,Salmon",no
+2025-04-21,19.3591,62.6501,Arabian Sea,13.55,33.17,71.8,68.08,"Sardine,Tuna",yes
+2025-01-12,-18.4827,80.0971,Indian Ocean,20.88,33.3,68.59,52.11,"Snapper,Sardine,Mackerel",no
+2025-07-09,9.2485,67.5709,Arabian Sea,1.71,33.08,47.68,56.57,"Sardine,Grouper",no
+2025-06-09,-26.9193,-15.7645,South Atlantic,26.77,33.92,40.53,57.59,"Snapper,Cod",no
+2024-10-02,-12.8027,74.8425,Indian Ocean,17.58,32.71,82.09,42.32,"Anchovy,Snapper",no
+2025-05-21,11.5142,84.9682,Bay of Bengal,15.19,32.09,65.33,40.71,"Anchovy,Mackerel",no
+2025-04-09,39.5914,-132.2565,Pacific Northwest,14.55,32.69,83.1,59.14,"Cod,Sardine",no
+2025-03-29,13.0381,87.6459,Bay of Bengal,13.85,35.36,49.68,54.75,"Tuna,Mackerel",no
+2025-01-30,-16.9215,79.1873,Indian Ocean,18.58,32.9,73.68,62.35,"Mackerel,Cod,Tuna",no
+2024-12-09,17.3896,86.2925,Bay of Bengal,18.16,34.16,86.65,48.13,"Tuna,Anchovy",no
+2025-06-28,12.6518,116.7252,South China Sea,22.93,34.26,54.53,64.09,"Snapper,Anchovy",no
+2024-12-07,54.1304,-147.4049,Gulf of Alaska,15.4,32.79,51.19,63.64,"Grouper,Mackerel,Tuna",no
+2025-01-20,14.8955,112.2636,South China Sea,22.35,34.46,60.38,56.35,"Anchovy,Snapper",no
+2025-06-20,38.0024,-28.698,North Atlantic,21.51,31.89,74.2,53.33,"Tuna,Snapper",no
+2024-10-31,56.877,-151.7936,Gulf of Alaska,30.66,34.99,44.57,79.14,"Sardine,Anchovy,Mackerel",no
+2025-07-08,-31.9809,-8.2544,South Atlantic,22.86,34.02,52.38,66.45,"Anchovy,Grouper,Tuna",no
+2025-06-16,10.5846,88.6955,Bay of Bengal,4.39,34.31,38.0,79.16,"Snapper,Mackerel,Salmon",no
+2025-06-08,43.8093,-129.6588,Pacific Northwest,24.42,33.31,67.12,49.61,"Grouper,Salmon",no
+2025-03-27,46.9801,-124.2507,Pacific Northwest,15.42,31.93,54.9,62.58,"Salmon,Snapper",no
+2024-10-09,-18.3689,82.3006,Indian Ocean,12.65,35.74,87.88,60.71,"Snapper,Sardine,Mackerel",no
+2025-08-20,12.5694,62.1918,Arabian Sea,13.44,31.83,78.11,57.42,"Grouper,Cod,Mackerel",no
+2025-07-22,39.4814,-27.1063,North Atlantic,19.81,34.8,64.43,56.91,"Cod,Anchovy,Sardine",no
+2025-06-28,11.2153,112.1695,South China Sea,12.28,33.95,59.1,38.87,"Cod,Salmon",no
+2025-01-21,-13.8388,76.539,Indian Ocean,20.95,35.53,71.87,56.19,"Sardine,Anchovy",no
+2025-08-30,-13.5965,80.5853,Indian Ocean,23.78,34.2,66.63,65.15,"Cod,Salmon",no
+2025-06-29,12.5864,81.5756,Bay of Bengal,29.26,34.38,30.33,54.51,"Tuna,Cod",yes
+2025-05-26,16.4638,68.2026,Arabian Sea,13.72,32.8,63.55,63.7,"Cod,Tuna,Salmon",yes
+2025-05-22,-14.4043,81.4682,Indian Ocean,18.44,34.09,70.19,67.11,"Salmon,Cod",no
+2025-06-27,12.1327,109.5726,South China Sea,20.41,33.96,67.12,91.27,"Anchovy,Sardine",no
+2025-04-13,-26.7946,-9.706,South Atlantic,34.03,33.43,41.19,52.58,"Cod,Sardine",no
+2025-08-28,42.5389,-29.0427,North Atlantic,27.55,33.86,47.57,96.74,"Grouper,Mackerel,Tuna",no
+2025-02-10,15.9172,61.172,Arabian Sea,25.62,33.45,56.03,61.51,"Mackerel,Tuna,Salmon",no
+2025-02-09,-18.2267,80.6729,Indian Ocean,23.61,34.5,50.69,70.64,"Salmon,Tuna",no
+2025-03-14,52.1681,-144.0965,Gulf of Alaska,23.8,34.91,70.87,94.21,"Snapper,Mackerel",no
+2025-05-21,38.1515,-32.5525,North Atlantic,13.53,33.55,48.9,66.77,"Grouper,Tuna,Mackerel",no
+2025-03-17,56.5232,-146.191,Gulf of Alaska,17.76,37.18,71.86,26.74,"Anchovy,Salmon,Grouper",no
+2025-08-14,-14.948,79.6346,Indian Ocean,17.19,37.02,73.87,58.63,"Anchovy,Salmon,Mackerel",no
+2025-03-14,-14.8896,80.519,Indian Ocean,8.86,33.73,51.86,61.07,"Snapper,Salmon",no
+2025-06-03,54.4694,-147.7276,Gulf of Alaska,23.63,35.62,55.8,51.42,"Salmon,Mackerel,Snapper",no
+2025-01-30,-31.3026,-7.6288,South Atlantic,25.88,35.94,72.03,44.92,"Mackerel,Snapper",no
+2025-06-08,-30.2942,-11.9478,South Atlantic,11.09,34.14,48.49,65.34,"Cod,Tuna,Grouper",no
+2025-04-03,-29.2971,-9.5472,South Atlantic,23.48,37.28,61.82,54.43,"Anchovy,Cod,Grouper",no
+2025-08-17,19.7485,84.2296,Bay of Bengal,13.74,33.94,60.57,53.88,"Mackerel,Grouper",no
+2024-12-03,42.582,-134.181,Pacific Northwest,25.66,34.74,48.48,42.32,"Cod,Tuna,Grouper",yes
+2025-08-18,43.497,-33.1097,North Atlantic,19.49,35.01,43.2,72.34,"Salmon,Sardine",no
+2025-07-08,12.74,115.2538,South China Sea,23.31,30.43,51.54,48.83,"Anchovy,Tuna,Sardine",no
+2025-06-29,20.3681,65.8254,Arabian Sea,18.71,31.23,64.02,56.15,"Cod,Tuna",no
+2024-10-03,-12.2748,80.3806,Indian Ocean,1.62,32.08,56.1,48.86,"Salmon,Mackerel",no
+2025-07-24,40.0401,-26.6852,North Atlantic,21.66,34.69,66.31,69.93,"Cod,Anchovy,Mackerel",no
+2025-04-14,50.259,-146.66,Gulf of Alaska,26.85,35.8,48.04,69.96,"Cod,Tuna,Snapper",no
+2025-09-20,52.75,-149.5222,Gulf of Alaska,18.16,33.26,60.77,28.17,"Grouper,Mackerel,Sardine",no
+2025-07-01,43.5203,-124.1939,Pacific Northwest,20.08,35.94,68.45,65.23,"Tuna,Cod",no
+2025-01-08,15.1678,88.4884,Bay of Bengal,22.2,33.57,65.65,89.65,"Mackerel,Cod",no
+2024-12-29,-26.2267,-6.5792,South Atlantic,20.07,30.42,71.03,20.49,"Anchovy,Snapper",no
+2025-04-21,17.999,84.2937,Bay of Bengal,10.68,34.39,55.03,57.15,"Mackerel,Tuna",no
+2024-11-27,14.5036,115.1485,South China Sea,25.06,36.22,53.97,29.25,"Salmon,Tuna,Cod",yes
+2025-01-13,52.0906,-148.5291,Gulf of Alaska,15.85,36.25,73.19,61.55,"Snapper,Sardine,Tuna",no
+2025-06-03,-29.4073,-13.5556,South Atlantic,6.88,34.23,51.0,78.39,"Grouper,Sardine,Tuna",no
+2025-04-08,15.0059,62.9432,Arabian Sea,22.88,37.8,75.04,59.44,"Salmon,Grouper,Mackerel",no
+2024-11-13,57.3667,-151.302,Gulf of Alaska,18.57,33.83,84.79,59.88,"Cod,Snapper",no
+2024-11-01,-32.0971,-9.8721,South Atlantic,19.48,33.59,74.94,44.55,"Grouper,Snapper",no
+2025-08-26,38.1577,-34.8264,North Atlantic,24.01,35.68,57.53,33.05,"Salmon,Tuna,Grouper",no
+2024-09-26,-14.0736,77.3376,Indian Ocean,13.04,33.34,58.25,53.96,"Grouper,Cod",no
+2025-01-28,-12.0594,80.8435,Indian Ocean,15.81,32.7,49.15,61.99,"Anchovy,Mackerel,Grouper",no
+2025-09-15,-16.6071,77.2969,Indian Ocean,29.45,31.45,32.68,65.55,"Sardine,Mackerel,Salmon",no
+2025-09-09,43.1037,-128.1513,Pacific Northwest,6.04,31.21,43.27,69.64,"Tuna,Salmon,Snapper",no
+2025-07-06,43.4014,-23.6793,North Atlantic,16.54,33.97,85.3,46.61,"Grouper,Sardine",no
+2024-10-07,45.3074,-130.7279,Pacific Northwest,14.25,32.53,65.27,69.57,"Tuna,Salmon,Sardine",no
+2025-08-30,46.7135,-132.9149,Pacific Northwest,24.44,35.23,83.16,54.34,"Salmon,Tuna,Grouper",no
+2025-07-03,14.4573,110.3947,South China Sea,17.58,34.81,60.89,56.02,"Mackerel,Anchovy,Cod",no
+2025-08-11,43.1862,-135.5272,Pacific Northwest,8.5,32.11,37.87,53.7,"Sardine,Salmon",no
+2025-08-23,9.6777,110.6785,South China Sea,27.94,34.99,50.29,54.5,"Anchovy,Snapper,Grouper",no
+2025-09-10,16.7525,84.2771,Bay of Bengal,20.22,30.95,67.68,58.91,"Salmon,Grouper,Cod",yes
+2024-10-06,37.3563,-29.3477,North Atlantic,19.79,33.85,65.29,65.53,"Tuna,Anchovy,Grouper",no
+2025-04-01,39.9932,-27.5541,North Atlantic,15.79,35.15,57.96,72.34,"Cod,Tuna",no
+2024-11-02,5.4224,110.3558,South China Sea,27.39,34.83,53.71,72.96,"Sardine,Grouper,Anchovy",yes
+2025-07-18,57.7583,-143.4349,Gulf of Alaska,22.15,35.36,58.62,50.99,"Grouper,Snapper,Salmon",no
+2025-03-10,42.4146,-29.6288,North Atlantic,16.48,34.02,81.32,71.58,"Salmon,Grouper,Tuna",no
+2024-12-28,45.3469,-30.6414,North Atlantic,9.2,36.84,59.22,49.96,"Grouper,Tuna,Snapper",no
+2025-08-06,38.374,-26.5552,North Atlantic,23.25,34.37,60.95,61.07,"Cod,Anchovy",no
+2025-07-19,52.404,-152.8658,Gulf of Alaska,23.69,34.95,63.43,65.16,"Snapper,Tuna",no
+2025-04-02,39.8633,-31.4613,North Atlantic,18.13,37.03,52.39,55.84,"Snapper,Grouper",no
+2025-01-12,38.6991,-36.2551,North Atlantic,22.33,33.43,40.34,72.22,"Anchovy,Cod,Snapper",no
+2025-04-15,16.0769,87.1382,Bay of Bengal,27.97,36.52,61.4,41.08,"Cod,Snapper,Grouper",no
+2025-06-11,-20.4289,81.4081,Indian Ocean,33.64,34.96,53.46,62.4,"Cod,Snapper,Mackerel",no
+2025-06-06,-17.4475,77.1087,Indian Ocean,27.6,36.06,40.89,66.32,"Salmon,Anchovy,Sardine",no
+2025-09-21,19.3807,66.9831,Arabian Sea,20.5,36.12,68.1,61.91,"Sardine,Tuna,Anchovy",no
+2024-10-18,16.4095,89.139,Bay of Bengal,10.35,32.77,67.08,62.27,"Snapper,Grouper,Mackerel",no
+2025-04-08,43.3687,-125.766,Pacific Northwest,19.47,34.31,78.84,52.69,"Cod,Tuna",no
+2025-02-13,57.4815,-151.9926,Gulf of Alaska,9.99,35.24,47.95,54.12,"Sardine,Salmon,Anchovy",no
+2025-01-14,-15.0227,82.7911,Indian Ocean,15.37,36.49,57.9,44.37,"Mackerel,Sardine,Tuna",no
+2025-01-01,-16.6561,79.5346,Indian Ocean,28.12,36.2,41.6,53.49,"Snapper,Salmon",no
+2024-11-23,-30.1671,-9.984,South Atlantic,26.84,35.81,49.03,53.38,"Anchovy,Snapper,Sardine",no
+2025-07-31,16.7659,86.7363,Bay of Bengal,14.18,32.56,76.84,55.95,"Sardine,Anchovy,Salmon",no
+2025-01-30,55.8736,-140.822,Gulf of Alaska,13.66,31.15,74.18,40.84,"Mackerel,Salmon",no
+2025-04-03,-29.1955,-12.8516,South Atlantic,18.92,34.67,58.08,53.23,"Grouper,Mackerel,Sardine",no
+2024-12-25,-31.2677,-9.6436,South Atlantic,17.6,33.59,69.01,55.1,"Cod,Salmon,Tuna",no
+2024-10-06,38.6069,-28.5444,North Atlantic,18.56,34.55,84.53,68.36,"Anchovy,Snapper",no
+2025-01-12,-11.3014,79.3352,Indian Ocean,25.97,32.96,39.2,61.52,"Sardine,Anchovy,Grouper",no
+2025-09-20,15.8605,106.2707,South China Sea,12.32,32.45,58.01,52.87,"Grouper,Salmon",no
+2025-03-28,56.4858,-147.5631,Gulf of Alaska,22.36,32.71,69.85,45.19,"Mackerel,Sardine,Tuna",no
+2025-04-27,12.6326,111.4714,South China Sea,22.4,30.0,64.22,43.64,"Tuna,Sardine,Grouper",no
+2024-11-19,44.7757,-133.4206,Pacific Northwest,19.15,34.1,68.85,66.44,"Sardine,Grouper",no
+2025-07-08,-29.4729,-6.1302,South Atlantic,9.59,34.27,47.33,59.2,"Salmon,Grouper",no
+2025-03-08,23.5238,60.2067,Arabian Sea,12.98,32.05,77.24,49.69,"Salmon,Snapper",no
+2025-07-31,37.1667,-30.7055,North Atlantic,34.75,36.09,27.97,62.33,"Tuna,Sardine",no
+2025-01-03,21.0585,67.4803,Arabian Sea,26.28,33.3,51.78,70.47,"Snapper,Anchovy",yes
+2025-03-05,-34.8572,-9.6584,South Atlantic,26.47,32.2,59.44,60.0,"Snapper,Cod",no
+2025-05-04,-32.0834,-14.8509,South Atlantic,16.8,35.33,62.18,50.0,"Anchovy,Snapper",no
+2024-11-10,-27.5229,-7.6903,South Atlantic,25.81,34.87,51.94,58.71,"Mackerel,Snapper",no
+2025-04-02,41.6677,-31.3914,North Atlantic,22.79,32.48,75.46,49.49,"Anchovy,Salmon",no
+2025-08-13,16.1543,87.2834,Bay of Bengal,20.06,33.92,60.1,59.18,"Salmon,Snapper",no
+2025-04-07,12.6426,85.4511,Bay of Bengal,26.6,35.01,58.4,56.84,"Anchovy,Salmon,Sardine",no
+2025-04-03,14.2212,89.9094,Bay of Bengal,25.25,32.53,46.95,58.94,"Salmon,Anchovy",no
+2025-08-15,55.835,-152.1281,Gulf of Alaska,16.19,33.45,62.18,55.86,"Snapper,Grouper",yes
+2024-11-08,10.6126,89.3396,Bay of Bengal,24.52,35.26,41.56,62.26,"Grouper,Snapper",no
+2025-02-16,-29.9725,-10.3488,South Atlantic,31.05,36.89,27.25,80.49,"Mackerel,Cod",no
+2025-02-14,42.9115,-32.9871,North Atlantic,22.96,33.84,65.62,66.96,"Cod,Sardine,Salmon",no
+2025-03-19,17.4964,67.2882,Arabian Sea,23.48,35.1,52.39,46.97,"Mackerel,Cod",no
+2025-03-31,14.3586,114.928,South China Sea,19.07,36.15,81.55,57.19,"Tuna,Cod,Snapper",no
+2025-07-05,-30.1831,-9.6215,South Atlantic,17.96,32.67,55.24,65.92,"Salmon,Anchovy,Snapper",no
+2025-03-16,51.7418,-151.7721,Gulf of Alaska,23.06,36.29,60.52,60.4,"Anchovy,Salmon",no
+2025-06-20,14.7792,58.3149,Arabian Sea,20.7,30.64,51.37,41.73,"Mackerel,Salmon",no
+2025-05-24,12.9167,114.6814,South China Sea,24.51,35.71,56.95,60.09,"Sardine,Anchovy",no
+2024-12-01,16.8084,63.0027,Arabian Sea,15.09,34.63,63.25,53.88,"Snapper,Mackerel",no
+2025-08-22,17.9365,87.2359,Bay of Bengal,14.82,35.21,58.04,42.06,"Salmon,Cod",no
+2024-12-26,16.7733,64.1235,Arabian Sea,26.86,34.03,40.3,71.38,"Snapper,Cod",no
+2024-12-12,44.9966,-136.7051,Pacific Northwest,22.14,36.92,77.47,72.39,"Cod,Sardine,Anchovy",no
+2025-03-24,37.834,-29.3271,North Atlantic,12.36,33.03,51.96,70.95,"Mackerel,Anchovy",no
+2025-08-06,10.9487,86.0651,Bay of Bengal,15.52,35.3,76.83,71.15,"Anchovy,Tuna,Sardine",no
+2025-03-13,12.6991,68.2649,Arabian Sea,17.59,32.87,85.61,74.55,"Grouper,Snapper",no
+2024-12-27,-30.3963,-9.3185,South Atlantic,29.6,34.63,54.06,75.86,"Snapper,Anchovy",no
+2025-04-24,54.1163,-155.5483,Gulf of Alaska,7.23,32.47,53.77,58.73,"Mackerel,Salmon",no
+2025-07-31,11.1927,86.9177,Bay of Bengal,21.83,32.9,62.63,40.28,"Snapper,Tuna,Mackerel",no
+2024-11-10,21.0942,86.9026,Bay of Bengal,26.17,33.92,53.36,57.59,"Mackerel,Salmon,Grouper",no
+2025-03-05,37.6472,-30.3751,North Atlantic,16.34,37.45,65.78,66.3,"Grouper,Cod",no
+2024-10-03,-18.9641,78.6588,Indian Ocean,21.26,36.38,65.69,69.71,"Tuna,Snapper,Cod",no
+2024-11-13,-30.1771,-2.8293,South Atlantic,17.09,32.85,56.07,87.22,"Cod,Sardine",no
+2025-01-17,-26.2529,-7.9369,South Atlantic,31.8,31.68,39.75,47.84,"Grouper,Sardine",no
+2024-10-25,11.1888,114.2189,South China Sea,34.16,33.47,33.47,63.77,"Salmon,Cod,Anchovy",no
+2025-08-29,38.1071,-26.8284,North Atlantic,22.27,30.93,49.2,67.68,"Salmon,Anchovy",yes
+2024-12-29,54.4888,-147.9603,Gulf of Alaska,24.41,31.96,48.76,58.09,"Snapper,Grouper",no
+2024-10-15,11.3115,88.0714,Bay of Bengal,26.55,34.73,54.29,60.2,"Tuna,Grouper,Snapper",no
+2025-04-29,-11.2209,79.6429,Indian Ocean,14.66,33.26,65.33,56.83,"Mackerel,Grouper,Sardine",no
+2025-08-25,47.6669,-125.7293,Pacific Northwest,25.98,32.6,45.01,57.08,"Anchovy,Tuna",no
+2025-06-18,43.6749,-131.4235,Pacific Northwest,15.97,33.53,77.72,65.02,"Anchovy,Cod,Mackerel",no
+2025-04-17,-15.8702,80.0124,Indian Ocean,21.54,34.65,83.69,51.59,"Anchovy,Sardine",no
+2025-02-19,10.2867,89.3121,Bay of Bengal,27.61,32.71,50.7,37.87,"Cod,Snapper,Salmon",no
+2025-07-15,38.6008,-33.3264,North Atlantic,21.38,33.22,58.54,69.95,"Snapper,Tuna",no
+2024-11-06,-29.5378,-7.0918,South Atlantic,27.43,33.0,60.52,50.6,"Snapper,Anchovy,Sardine",no
+2025-07-13,-11.0146,78.0305,Indian Ocean,32.08,34.89,31.68,54.3,"Grouper,Sardine,Tuna",no
+2025-06-20,54.7879,-147.866,Gulf of Alaska,24.55,34.2,43.96,54.26,"Tuna,Grouper",no
+2025-09-20,49.8479,-127.6614,Pacific Northwest,21.72,35.12,55.89,57.55,"Sardine,Grouper",no
+2025-03-20,13.0006,112.5565,South China Sea,24.13,34.82,60.17,67.58,"Snapper,Sardine,Grouper",no
+2025-01-15,15.8216,65.1091,Arabian Sea,24.01,33.0,58.5,52.49,"Snapper,Sardine,Tuna",no
+2025-09-17,21.7973,67.1971,Arabian Sea,23.22,36.96,57.66,86.59,"Mackerel,Snapper",yes
+2025-07-19,10.8067,113.117,South China Sea,25.01,33.83,73.74,67.02,"Grouper,Mackerel",no
+2025-09-17,41.2555,-30.4021,North Atlantic,16.35,32.84,93.42,56.01,"Mackerel,Grouper,Snapper",no
+2025-03-30,-30.1547,-8.36,South Atlantic,23.33,35.01,52.89,64.01,"Snapper,Mackerel",no
+2025-06-11,42.2469,-133.5652,Pacific Northwest,26.39,35.03,63.0,60.31,"Sardine,Grouper,Anchovy",no
+2024-11-07,-12.4107,80.5314,Indian Ocean,23.76,34.57,48.6,44.17,"Grouper,Cod,Anchovy",no
+2025-01-01,20.0703,59.8962,Arabian Sea,14.11,32.92,58.65,43.23,"Cod,Sardine,Anchovy",no
+2025-03-25,40.2588,-33.5418,North Atlantic,19.31,35.59,54.37,54.58,"Sardine,Snapper",no
+2025-04-19,13.279,90.4905,Bay of Bengal,18.16,35.66,73.96,52.6,"Salmon,Tuna,Sardine",yes
+2024-10-06,15.0626,110.355,South China Sea,20.25,33.91,72.55,52.24,"Anchovy,Snapper",no
+2025-03-12,41.0492,-126.3752,Pacific Northwest,33.4,35.5,53.46,58.51,"Salmon,Cod",no
+2025-08-04,12.7652,110.2241,South China Sea,14.51,33.91,69.18,47.1,"Mackerel,Snapper",yes
+2025-03-15,8.7741,114.6093,South China Sea,17.09,34.82,79.16,69.8,"Salmon,Sardine,Grouper",no
+2024-12-03,18.341,84.4419,Bay of Bengal,21.56,34.39,67.74,67.11,"Salmon,Grouper,Mackerel",no
+2025-04-12,20.617,64.5575,Arabian Sea,26.9,33.93,38.16,76.26,"Salmon,Mackerel,Tuna",no
+2025-06-04,10.0576,116.9329,South China Sea,14.74,33.49,64.56,49.36,"Salmon,Snapper",no
+2024-12-01,10.5286,113.1854,South China Sea,3.5,33.94,37.88,54.89,"Tuna,Anchovy",no
+2025-08-12,-15.5324,78.8684,Indian Ocean,8.5,32.3,60.61,31.19,"Tuna,Anchovy,Salmon",no
+2025-04-18,-9.7691,82.3058,Indian Ocean,16.66,35.96,59.91,67.33,"Cod,Grouper,Anchovy",no
+2024-11-08,16.7816,60.9145,Arabian Sea,18.7,34.42,63.66,69.57,"Grouper,Sardine",yes
+2025-08-06,-13.6733,79.8172,Indian Ocean,17.35,34.23,74.21,88.61,"Grouper,Cod,Tuna",no
+2024-10-06,54.2655,-128.4521,Pacific Northwest,22.91,35.06,50.09,54.39,"Snapper,Salmon",no
+2025-04-02,39.4775,-29.5853,North Atlantic,26.52,35.29,51.33,50.49,"Anchovy,Snapper",no
+2025-07-31,50.1812,-148.9395,Gulf of Alaska,20.99,35.17,73.11,62.57,"Anchovy,Tuna",no
+2024-10-12,52.9784,-148.7838,Gulf of Alaska,20.11,33.95,46.92,59.97,"Salmon,Snapper,Anchovy",no
+2025-04-09,54.2595,-146.536,Gulf of Alaska,13.53,31.56,57.57,61.96,"Salmon,Snapper,Tuna",no
+2025-01-05,50.5952,-148.6971,Gulf of Alaska,21.54,34.27,68.31,52.66,"Salmon,Snapper,Grouper",no
+2025-06-03,14.477,109.5828,South China Sea,17.93,30.0,63.64,38.71,"Snapper,Sardine,Grouper",no
+2025-03-04,44.8322,-136.7776,Pacific Northwest,21.29,32.61,68.27,42.66,"Salmon,Sardine",no
+2024-11-17,-29.0907,-9.6259,South Atlantic,18.47,31.7,54.29,46.47,"Cod,Grouper",yes
+2024-10-04,46.8756,-130.8377,Pacific Northwest,14.21,33.58,64.68,66.81,"Cod,Sardine",no
+2025-03-15,-15.2204,81.2784,Indian Ocean,19.86,33.25,50.79,55.12,"Salmon,Sardine,Tuna",no
+2025-07-10,12.613,83.8587,Bay of Bengal,23.5,34.9,49.96,57.37,"Grouper,Mackerel,Salmon",no
+2025-02-27,46.1969,-127.5252,Pacific Northwest,15.72,35.58,50.29,42.14,"Snapper,Anchovy,Mackerel",no
+2024-12-05,-16.1001,85.0134,Indian Ocean,22.96,33.94,38.13,40.43,"Grouper,Sardine,Salmon",no
+2025-04-20,36.6825,-29.8034,North Atlantic,20.69,35.42,65.98,72.66,"Grouper,Cod,Salmon",yes
+2025-05-05,21.1929,61.0647,Arabian Sea,35.0,34.56,39.81,68.49,"Salmon,Grouper,Tuna",no
+2025-05-01,13.1848,68.2104,Arabian Sea,17.95,34.16,57.12,70.51,"Grouper,Snapper,Cod",no
+2025-07-16,54.1477,-142.225,Gulf of Alaska,31.89,34.07,42.85,60.17,"Grouper,Salmon,Tuna",no
+2025-08-30,16.736,66.9358,Arabian Sea,16.77,33.94,51.73,73.17,"Salmon,Anchovy",no
+2025-01-10,19.3854,84.4617,Bay of Bengal,21.42,32.59,60.89,67.19,"Mackerel,Cod,Snapper",no
+2025-03-06,36.0549,-34.1435,North Atlantic,22.95,37.1,73.73,26.77,"Mackerel,Tuna",no
+2025-05-18,50.3641,-148.9096,Gulf of Alaska,26.57,34.83,39.76,68.2,"Cod,Salmon,Anchovy",no
+2025-02-27,58.4139,-147.9448,Gulf of Alaska,17.01,35.33,77.76,74.05,"Cod,Mackerel,Anchovy",no
+2024-09-29,20.1987,64.7966,Arabian Sea,20.54,33.64,52.8,51.76,"Salmon,Mackerel",no
+2025-04-30,-10.6776,79.8746,Indian Ocean,26.02,35.62,51.64,64.04,"Snapper,Grouper",no
+2025-04-27,16.9075,83.4285,Bay of Bengal,20.97,36.47,62.25,58.01,"Snapper,Tuna,Cod",no
+2024-10-16,56.5321,-152.1815,Gulf of Alaska,16.25,35.61,70.06,53.28,"Anchovy,Salmon",no
+2024-12-29,-29.9623,-8.0295,South Atlantic,15.64,34.06,62.15,45.67,"Anchovy,Tuna",no
+2024-12-24,56.1542,-151.9708,Gulf of Alaska,10.76,33.83,71.13,61.92,"Mackerel,Grouper",no
+2025-01-30,19.4138,59.9928,Arabian Sea,25.63,33.5,63.38,52.72,"Snapper,Mackerel",no
+2025-01-26,44.5379,-128.7864,Pacific Northwest,18.4,33.03,85.25,72.72,"Grouper,Cod,Salmon",no
+2025-07-03,42.772,-133.5541,Pacific Northwest,26.2,31.44,62.86,49.19,"Salmon,Tuna",no
+2025-06-11,19.7436,61.521,Arabian Sea,24.31,34.17,44.83,62.11,"Mackerel,Grouper",no
+2025-02-28,-12.848,76.429,Indian Ocean,22.94,35.28,67.37,68.04,"Cod,Sardine,Salmon",no
+2025-08-14,54.865,-149.8251,Gulf of Alaska,8.61,34.51,53.09,69.14,"Tuna,Sardine",no
+2024-12-24,21.1636,87.2354,Bay of Bengal,19.63,34.46,87.06,50.4,"Tuna,Grouper",no
+2024-10-07,-31.641,-10.1488,South Atlantic,28.08,36.7,54.31,46.97,"Cod,Mackerel",no
+2024-09-24,-31.7134,-15.3248,South Atlantic,28.38,35.45,73.42,41.06,"Sardine,Snapper",no
+2025-01-29,47.4183,-134.9433,Pacific Northwest,28.81,35.18,47.99,66.84,"Snapper,Sardine",no
+2025-04-28,38.6097,-35.5582,North Atlantic,25.17,35.79,48.65,60.24,"Mackerel,Anchovy",no
+2024-12-20,-16.8827,77.3497,Indian Ocean,26.31,33.9,73.6,65.08,"Tuna,Cod,Anchovy",no
+2025-08-17,-28.1076,-7.8194,South Atlantic,27.14,33.02,50.44,58.05,"Anchovy,Mackerel,Cod",no
+2024-11-17,-10.9909,80.712,Indian Ocean,11.92,31.67,74.5,52.25,"Grouper,Cod",no
+2024-12-10,13.5681,68.2693,Arabian Sea,17.64,36.05,69.8,71.9,"Anchovy,Sardine,Grouper",no
+2025-07-10,57.1573,-146.1301,Gulf of Alaska,22.09,33.65,80.98,52.37,"Mackerel,Anchovy",no
+2025-08-04,16.2073,85.7116,Bay of Bengal,21.89,33.75,46.4,63.85,"Anchovy,Mackerel,Cod",no
+2025-02-07,55.4106,-146.5363,Gulf of Alaska,23.16,34.85,40.35,44.41,"Cod,Anchovy",no
+2025-01-16,-13.1675,77.9392,Indian Ocean,20.48,33.05,70.66,61.89,"Cod,Snapper",no
+2025-02-06,55.8033,-151.6382,Gulf of Alaska,22.56,37.94,74.37,53.92,"Snapper,Grouper,Cod",no
+2024-11-01,8.0331,115.8484,South China Sea,15.26,32.95,62.87,47.01,"Sardine,Snapper,Cod",no
+2025-04-04,52.3254,-150.2231,Gulf of Alaska,15.31,34.78,62.3,58.94,"Cod,Tuna",no
+2024-11-06,-30.8348,-8.5886,South Atlantic,24.01,33.78,58.79,54.52,"Anchovy,Snapper,Grouper",no
+2025-03-27,41.3348,-28.6341,North Atlantic,21.69,34.07,69.59,75.87,"Tuna,Anchovy",no
+2025-07-27,44.161,-29.3146,North Atlantic,23.79,34.42,60.88,54.06,"Anchovy,Salmon",no
+2025-07-13,38.8756,-29.787,North Atlantic,17.32,33.27,84.09,53.26,"Anchovy,Snapper,Mackerel",no
+2024-11-10,9.7272,106.8748,South China Sea,23.79,38.0,54.75,25.0,"Anchovy,Tuna",no
+2024-10-22,43.898,-30.8461,North Atlantic,16.21,33.73,74.0,60.94,"Salmon,Cod",no
+2024-10-19,-30.4345,-13.8156,South Atlantic,22.38,31.32,56.79,60.71,"Snapper,Mackerel,Salmon",no
+2025-09-01,39.8049,-26.4908,North Atlantic,25.55,34.67,64.18,70.66,"Cod,Salmon",no
+2024-09-29,13.2611,113.6383,South China Sea,26.54,32.6,43.85,63.5,"Grouper,Snapper",no
+2024-11-23,19.1253,58.4427,Arabian Sea,14.33,36.03,80.91,40.27,"Salmon,Tuna,Anchovy",no
+2024-12-08,50.3437,-131.4786,Pacific Northwest,17.14,36.32,64.53,62.05,"Salmon,Sardine",no
+2025-01-05,46.8602,-134.9788,Pacific Northwest,13.67,35.26,60.84,54.88,"Grouper,Snapper,Cod",no
+2025-03-19,-29.0967,-7.0513,South Atlantic,4.25,32.75,44.09,57.58,"Salmon,Anchovy,Grouper",no
+2025-02-27,14.0854,85.4194,Bay of Bengal,18.53,35.72,61.63,55.63,"Grouper,Sardine",no
+2025-06-03,-30.9009,-7.1236,South Atlantic,27.39,33.9,49.11,60.57,"Mackerel,Anchovy,Snapper",no
+2025-08-26,40.693,-29.2941,North Atlantic,13.25,32.55,81.93,55.61,"Tuna,Snapper,Sardine",no
+2025-01-16,15.8454,88.7345,Bay of Bengal,19.17,33.52,65.96,46.02,"Mackerel,Cod,Salmon",no
+2025-06-07,-9.4486,80.258,Indian Ocean,5.99,33.86,73.38,74.69,"Sardine,Snapper",no
+2025-08-28,42.774,-134.0614,Pacific Northwest,17.91,34.14,51.1,50.52,"Mackerel,Tuna",no
+2025-08-02,-13.8156,76.356,Indian Ocean,24.28,32.22,73.86,35.53,"Cod,Salmon",no
+2024-11-11,44.9927,-29.0549,North Atlantic,23.38,34.03,48.98,58.99,"Salmon,Cod,Sardine",no
+2025-01-24,-13.7948,76.6305,Indian Ocean,21.92,32.05,65.13,49.37,"Tuna,Sardine",no
+2025-04-23,58.7073,-150.2669,Gulf of Alaska,20.34,32.53,61.19,54.5,"Cod,Grouper",no
+2024-10-13,7.7594,104.9808,South China Sea,13.66,34.94,45.34,43.88,"Tuna,Sardine,Anchovy",no
+2025-08-11,18.9631,65.927,Arabian Sea,23.98,31.72,55.74,34.16,"Salmon,Snapper,Tuna",no
+2025-06-13,-33.1435,-13.1218,South Atlantic,11.02,36.03,80.26,49.15,"Mackerel,Tuna",no
+2024-10-18,11.2677,111.0509,South China Sea,16.09,34.33,70.14,67.22,"Grouper,Snapper",yes
+2025-02-26,41.9975,-29.9625,North Atlantic,25.33,35.19,41.12,41.86,"Anchovy,Cod,Tuna",no
+2025-02-22,14.2658,113.0539,South China Sea,26.6,34.59,54.9,76.42,"Grouper,Tuna",no
+2025-02-13,59.4414,-147.6545,Gulf of Alaska,18.17,32.74,76.68,73.56,"Tuna,Mackerel,Sardine",no
+2024-10-09,49.09,-148.1664,Gulf of Alaska,19.76,32.91,90.32,58.75,"Salmon,Tuna,Mackerel",no
+2025-01-26,47.9647,-136.0084,Pacific Northwest,15.44,35.47,58.59,47.68,"Mackerel,Salmon",no
+2025-01-17,-28.449,-11.3654,South Atlantic,18.56,32.79,58.93,46.44,"Snapper,Sardine,Salmon",no
+2025-03-06,7.3089,112.6582,South China Sea,21.41,36.55,56.5,55.8,"Tuna,Snapper,Salmon",no
+2025-02-18,17.233,89.3257,Bay of Bengal,21.96,33.62,58.5,46.67,"Sardine,Anchovy,Salmon",no
+2025-08-30,51.6281,-146.6802,Gulf of Alaska,27.18,32.64,54.47,45.78,"Sardine,Grouper",no
+2024-10-02,-28.1943,-12.0364,South Atlantic,26.07,33.63,47.36,48.12,"Cod,Tuna,Grouper",no
+2024-12-06,-29.18,-3.2835,South Atlantic,28.58,33.54,45.66,68.33,"Anchovy,Sardine",no
+2025-03-14,46.0848,-129.2306,Pacific Northwest,24.12,36.58,59.47,50.72,"Cod,Mackerel",no
+2025-05-07,11.0371,112.0156,South China Sea,21.17,34.54,50.09,43.78,"Cod,Salmon,Anchovy",no
+2025-04-02,53.0685,-146.0959,Gulf of Alaska,18.99,34.29,55.78,57.99,"Anchovy,Mackerel",no
+2025-07-15,-17.1737,80.485,Indian Ocean,33.19,33.97,32.68,62.78,"Grouper,Sardine",no
+2025-01-27,11.9059,107.6697,South China Sea,14.22,33.78,60.8,57.09,"Tuna,Cod",yes
+2024-10-13,20.6682,63.7024,Arabian Sea,22.39,33.19,66.93,65.45,"Salmon,Anchovy",no
+2025-03-22,-12.4025,82.1404,Indian Ocean,23.53,33.85,61.38,77.02,"Mackerel,Snapper,Anchovy",no
+2024-12-17,15.5443,88.2458,Bay of Bengal,15.06,33.89,63.17,37.86,"Anchovy,Grouper",yes
+2025-09-20,17.5191,68.2477,Arabian Sea,12.71,32.76,33.29,53.04,"Anchovy,Mackerel",no
+2024-11-09,48.323,-127.4181,Pacific Northwest,20.47,33.44,75.33,61.98,"Cod,Snapper,Grouper",no
+2025-01-28,10.6761,114.2639,South China Sea,33.66,34.09,31.03,50.32,"Grouper,Salmon",no
+2025-02-21,13.651,114.4531,South China Sea,22.62,33.67,66.41,65.4,"Sardine,Mackerel,Cod",no
+2025-08-16,16.945,66.3273,Arabian Sea,5.49,35.91,59.66,55.78,"Anchovy,Sardine",no
+2025-05-30,43.0716,-128.3586,Pacific Northwest,15.15,33.09,75.57,72.13,"Salmon,Anchovy",no
+2024-10-25,53.0632,-145.8021,Gulf of Alaska,14.0,34.54,69.47,61.27,"Anchovy,Tuna",no
+2025-03-25,44.3584,-132.9317,Pacific Northwest,26.1,32.85,57.29,58.4,"Anchovy,Snapper",no
+2025-06-02,-10.8514,80.605,Indian Ocean,13.95,34.46,60.43,100.0,"Anchovy,Salmon",no
+2025-05-13,49.2601,-135.5231,Pacific Northwest,20.57,36.99,63.71,29.24,"Cod,Anchovy,Salmon",yes
+2025-09-15,56.1282,-150.5166,Gulf of Alaska,15.89,33.16,69.39,76.86,"Anchovy,Mackerel",no
+2025-07-28,14.0051,60.0162,Arabian Sea,23.2,31.98,57.35,58.56,"Cod,Mackerel",no
+2025-08-29,14.7176,88.511,Bay of Bengal,26.37,34.91,54.0,51.49,"Tuna,Snapper,Anchovy",no
+2024-10-27,-28.7702,-8.9901,South Atlantic,7.4,32.82,60.85,60.06,"Anchovy,Sardine",no
+2024-11-09,17.9132,65.153,Arabian Sea,22.4,33.45,53.93,87.7,"Cod,Snapper,Salmon",no
+2024-12-04,46.7289,-133.01,Pacific Northwest,27.67,32.74,53.5,39.0,"Tuna,Sardine",no
+2025-09-23,15.5727,58.0325,Arabian Sea,23.24,37.18,73.41,46.01,"Tuna,Salmon,Cod",no
+2025-02-13,21.3664,62.9694,Arabian Sea,20.21,34.45,71.13,61.15,"Sardine,Snapper,Anchovy",no
+2025-01-04,44.1395,-26.3714,North Atlantic,22.86,36.58,56.41,71.58,"Anchovy,Sardine",no
+2024-10-09,51.4226,-150.068,Gulf of Alaska,22.51,34.6,80.48,54.0,"Tuna,Sardine,Anchovy",no
+2025-09-02,-12.8861,77.117,Indian Ocean,28.45,35.84,55.1,58.23,"Mackerel,Sardine",yes
+2025-07-11,19.9224,64.0934,Arabian Sea,14.91,32.43,56.3,59.8,"Mackerel,Tuna,Grouper",no
+2025-06-16,13.5024,110.118,South China Sea,28.79,33.6,44.08,68.78,"Anchovy,Grouper,Mackerel",no
+2025-08-03,20.9432,58.7877,Arabian Sea,26.71,36.27,48.89,57.17,"Tuna,Snapper,Anchovy",no
+2025-09-21,52.2964,-145.3967,Gulf of Alaska,15.97,33.28,57.95,65.53,"Anchovy,Sardine,Grouper",no
+2025-02-19,36.1863,-33.2481,North Atlantic,22.37,36.77,65.2,46.53,"Tuna,Mackerel,Sardine",yes
+2025-09-08,16.8651,61.1246,Arabian Sea,28.45,30.19,57.08,40.39,"Salmon,Anchovy,Tuna",no
+2025-07-21,15.8576,61.9598,Arabian Sea,19.22,34.62,63.15,43.01,"Grouper,Tuna,Mackerel",no
+2025-05-05,12.2243,113.3533,South China Sea,18.43,33.01,85.91,57.8,"Sardine,Cod",no
+2025-07-03,-32.1671,-11.7842,South Atlantic,20.06,34.0,68.47,90.1,"Cod,Sardine",no
+2025-06-11,40.9789,-29.8864,North Atlantic,20.26,34.37,65.19,62.52,"Salmon,Grouper,Sardine",no
+2025-05-16,15.1569,73.0713,Arabian Sea,15.7,34.15,50.45,65.65,"Sardine,Snapper",no
+2025-01-06,48.1352,-128.584,Pacific Northwest,23.41,31.34,77.55,37.41,"Sardine,Salmon",no
+2025-02-11,41.732,-32.565,North Atlantic,20.91,33.29,64.47,58.47,"Cod,Snapper",no
+2025-08-20,54.7567,-149.4544,Gulf of Alaska,16.64,34.54,58.34,35.25,"Anchovy,Mackerel",no
+2025-08-18,11.4011,108.5563,South China Sea,20.53,31.8,54.66,45.01,"Salmon,Sardine,Tuna",no
+2025-05-20,10.6564,117.8641,South China Sea,22.11,34.51,58.07,55.3,"Salmon,Cod",no
+2025-08-16,16.3449,86.4625,Bay of Bengal,19.18,35.1,52.1,52.4,"Tuna,Cod",no
+2025-08-18,47.627,-136.6081,Pacific Northwest,10.92,33.8,51.11,48.11,"Snapper,Grouper",no
+2025-05-06,41.4244,-32.076,North Atlantic,24.33,33.43,54.5,69.48,"Anchovy,Mackerel",no
+2025-06-23,55.5472,-144.1572,Gulf of Alaska,13.55,32.62,49.48,61.08,"Anchovy,Cod",yes
+2025-05-27,51.9578,-151.7998,Gulf of Alaska,19.71,33.3,59.73,80.07,"Snapper,Mackerel",no
+2024-11-08,13.4002,87.7343,Bay of Bengal,19.67,31.45,80.95,50.65,"Anchovy,Mackerel",no
+2025-08-05,11.5055,109.3994,South China Sea,27.42,34.47,54.84,78.96,"Salmon,Mackerel",no
+2024-10-05,40.7348,-132.087,Pacific Northwest,13.98,35.09,63.66,42.86,"Salmon,Cod,Anchovy",no
+2025-08-02,44.8405,-134.9661,Pacific Northwest,23.17,34.57,78.73,72.34,"Snapper,Grouper",yes
+2025-02-21,35.807,-32.8874,North Atlantic,22.0,30.76,61.63,36.57,"Cod,Mackerel,Grouper",no
+2024-12-13,56.2727,-147.942,Gulf of Alaska,28.4,34.01,41.51,61.99,"Salmon,Sardine",no
+2025-02-15,41.7696,-22.5924,North Atlantic,16.27,33.6,60.78,65.54,"Tuna,Anchovy",no
+2025-09-17,15.259,110.1491,South China Sea,25.92,34.81,54.05,57.18,"Anchovy,Tuna,Sardine",no
+2025-03-02,-14.1062,77.7493,Indian Ocean,30.71,35.33,37.79,64.5,"Tuna,Mackerel,Anchovy",no
+2025-09-04,20.2745,65.1679,Arabian Sea,21.29,33.94,67.72,67.44,"Anchovy,Mackerel,Sardine",no
+2025-07-31,17.0813,108.8487,South China Sea,22.57,33.52,78.46,51.76,"Cod,Anchovy",no
+2025-08-24,55.9704,-152.1192,Gulf of Alaska,17.13,30.77,70.66,42.85,"Sardine,Grouper",no
+2025-09-01,-33.923,-7.6092,South Atlantic,15.79,36.4,73.08,40.89,"Salmon,Anchovy,Snapper",no
+2025-07-16,54.2129,-148.508,Gulf of Alaska,27.63,32.88,51.65,70.84,"Snapper,Cod",no
+2025-06-25,11.1333,106.7836,South China Sea,13.66,34.48,59.95,63.51,"Grouper,Tuna,Cod",no
+2025-05-09,-30.7085,-9.4339,South Atlantic,15.78,36.15,74.64,57.75,"Mackerel,Anchovy",no
+2025-04-11,-15.0232,81.099,Indian Ocean,14.51,34.45,51.96,71.03,"Tuna,Grouper",no
+2025-06-25,9.4416,84.0996,Bay of Bengal,23.39,34.03,32.28,79.75,"Snapper,Mackerel",no
+2024-11-03,-12.0151,77.9674,Indian Ocean,15.87,34.54,83.55,81.8,"Anchovy,Grouper",no
+2024-11-01,57.3745,-151.771,Gulf of Alaska,23.86,32.9,61.46,56.76,"Snapper,Salmon",no
+2025-05-29,8.7809,64.5367,Arabian Sea,23.85,34.67,57.27,81.36,"Mackerel,Grouper",no
+2025-01-22,45.9341,-128.687,Pacific Northwest,26.27,34.54,44.49,33.02,"Grouper,Mackerel",no
+2025-07-11,-31.0593,-7.5965,South Atlantic,20.89,35.93,61.26,60.95,"Salmon,Mackerel,Grouper",no
+2025-09-16,6.8801,110.6248,South China Sea,25.09,36.32,58.22,49.89,"Anchovy,Sardine",no
+2025-03-14,17.2714,89.6061,Bay of Bengal,17.84,34.5,81.49,85.21,"Cod,Salmon,Grouper",no
+2024-10-15,17.8378,65.6722,Arabian Sea,19.31,34.28,56.81,79.14,"Salmon,Tuna,Grouper",no
+2025-06-10,-14.7072,85.973,Indian Ocean,17.46,33.0,63.42,79.91,"Grouper,Tuna,Mackerel",no
+2025-08-12,23.1939,88.7726,Bay of Bengal,13.36,33.94,61.4,74.84,"Sardine,Snapper,Mackerel",no
+2025-03-09,13.3806,89.3613,Bay of Bengal,15.81,32.45,48.02,38.47,"Salmon,Snapper,Anchovy",yes
+2025-08-25,55.9397,-151.5982,Gulf of Alaska,1.14,32.43,31.56,49.91,"Grouper,Cod",no
+2025-02-18,42.6428,-30.0569,North Atlantic,19.75,32.75,65.92,49.55,"Grouper,Mackerel",no
+2025-04-08,9.1661,114.9757,South China Sea,22.56,33.33,62.33,60.63,"Mackerel,Salmon,Cod",no
+2025-09-05,53.137,-150.8348,Gulf of Alaska,10.26,33.46,60.2,53.97,"Cod,Mackerel",no
+2025-08-26,58.913,-145.6143,Gulf of Alaska,31.12,32.82,18.16,53.74,"Anchovy,Salmon,Cod",no
+2025-07-18,40.8264,-26.0373,North Atlantic,22.29,35.2,52.02,45.86,"Sardine,Anchovy",no
+2025-04-15,16.1303,62.1358,Arabian Sea,16.11,32.94,53.38,41.68,"Grouper,Mackerel,Anchovy",no
+2025-06-17,-26.6785,-9.1208,South Atlantic,21.59,32.89,61.61,63.76,"Salmon,Mackerel,Snapper",no
+2024-10-04,48.2374,-129.976,Pacific Northwest,24.76,33.27,38.36,64.55,"Tuna,Snapper",no
+2025-02-08,19.2666,62.9542,Arabian Sea,15.16,34.83,68.58,54.13,"Grouper,Snapper,Salmon",no
+2024-10-30,-16.7506,84.9093,Indian Ocean,25.21,33.46,58.45,64.17,"Salmon,Mackerel",no
+2025-07-21,39.8475,-31.0698,North Atlantic,21.48,35.69,59.82,43.84,"Cod,Grouper",no
+2024-11-06,39.5318,-30.8753,North Atlantic,33.45,30.64,35.21,48.15,"Cod,Tuna,Anchovy",no
+2024-11-10,17.4398,86.8567,Bay of Bengal,18.38,33.83,68.2,63.22,"Anchovy,Mackerel,Grouper",no
+2025-08-31,57.2596,-151.6908,Gulf of Alaska,13.7,31.38,70.06,54.89,"Mackerel,Anchovy,Snapper",no
+2025-04-05,45.3548,-31.8266,North Atlantic,21.01,35.28,54.11,52.04,"Grouper,Sardine",no
+2025-08-14,15.9034,91.8191,Bay of Bengal,27.23,34.55,41.64,74.96,"Salmon,Grouper",no
+2024-11-02,40.6,-37.9507,North Atlantic,17.96,34.98,67.54,68.68,"Sardine,Mackerel,Anchovy",no
+2024-10-14,-30.2143,-9.9053,South Atlantic,17.91,35.84,61.32,59.55,"Salmon,Sardine",no
+2024-11-14,41.0429,-129.9643,Pacific Northwest,31.89,34.87,24.97,23.33,"Sardine,Grouper,Mackerel",no
+2024-10-08,-11.5762,77.3578,Indian Ocean,22.1,35.27,57.32,53.54,"Mackerel,Anchovy",no
+2025-05-22,46.628,-130.043,Pacific Northwest,25.84,33.31,41.03,85.26,"Grouper,Mackerel",no
+2025-02-03,11.8026,112.2015,South China Sea,17.68,33.97,68.96,66.97,"Salmon,Snapper",no
+2025-08-10,39.5581,-28.2581,North Atlantic,11.73,33.29,50.74,79.1,"Salmon,Mackerel,Anchovy",no
+2025-04-14,16.0487,62.6421,Arabian Sea,18.53,35.93,50.05,39.58,"Grouper,Cod,Tuna",no
+2025-08-10,9.5652,107.1566,South China Sea,15.6,30.98,55.01,64.29,"Snapper,Anchovy,Cod",no
+2025-06-07,41.9917,-134.6083,Pacific Northwest,13.17,33.94,69.01,75.5,"Mackerel,Grouper",yes
+2025-05-07,-29.9264,-10.964,South Atlantic,18.79,37.06,50.79,46.91,"Sardine,Mackerel,Salmon",no
+2025-03-30,38.0688,-31.5871,North Atlantic,18.66,31.61,74.63,61.03,"Grouper,Cod",no
+2024-12-05,-29.7405,-12.6983,South Atlantic,18.0,37.23,70.95,34.6,"Mackerel,Tuna",no
+2025-03-21,11.403,83.8766,Bay of Bengal,17.33,35.41,74.45,64.25,"Tuna,Cod",no
+2025-04-01,15.816,85.115,Bay of Bengal,18.33,34.66,65.85,64.4,"Mackerel,Anchovy,Snapper",no
+2025-07-18,-11.462,81.6781,Indian Ocean,11.2,32.35,48.06,46.48,"Tuna,Snapper",no
+2025-07-07,-26.2345,-9.0755,South Atlantic,17.33,30.88,69.36,49.69,"Cod,Tuna",no
+2025-01-21,43.7218,-27.6448,North Atlantic,14.23,33.23,61.51,51.85,"Snapper,Sardine,Tuna",yes
+2025-07-06,51.7351,-144.4095,Gulf of Alaska,20.61,31.41,64.26,55.41,"Mackerel,Salmon,Anchovy",no
+2024-12-12,42.4838,-29.4386,North Atlantic,12.11,31.88,69.44,68.74,"Grouper,Mackerel",no
+2025-05-15,43.1698,-27.9491,North Atlantic,14.53,36.6,68.43,47.38,"Grouper,Mackerel,Snapper",no
+2025-06-07,39.9868,-127.901,Pacific Northwest,14.28,34.56,57.34,59.05,"Sardine,Snapper,Anchovy",no
+2025-01-05,23.6681,68.1552,Arabian Sea,22.13,33.96,70.19,78.37,"Tuna,Salmon,Mackerel",no
+2025-09-02,39.5341,-126.6307,Pacific Northwest,32.39,34.12,19.97,71.71,"Anchovy,Cod,Sardine",no
+2025-02-22,16.8797,87.7637,Bay of Bengal,17.07,33.03,69.4,55.21,"Salmon,Anchovy,Mackerel",no
+2025-07-24,41.0188,-30.5343,North Atlantic,11.52,35.48,29.65,52.23,"Grouper,Tuna",no
+2025-08-18,41.685,-26.6197,North Atlantic,15.73,34.88,67.41,40.06,"Tuna,Cod,Mackerel",no
+2024-12-12,19.2585,65.1699,Arabian Sea,21.65,33.26,70.96,42.57,"Salmon,Anchovy",no
+2025-01-26,52.9681,-146.7138,Gulf of Alaska,26.46,33.49,60.88,63.02,"Sardine,Anchovy,Tuna",no
+2025-04-16,54.1015,-150.09,Gulf of Alaska,22.57,34.35,44.95,43.42,"Cod,Sardine",no
+2025-03-28,-14.0939,82.3428,Indian Ocean,12.37,31.88,75.49,58.63,"Mackerel,Sardine,Tuna",yes
+2025-08-02,-31.5313,-13.5717,South Atlantic,25.3,32.83,66.33,54.37,"Anchovy,Sardine",no
+2024-10-22,7.1275,86.6377,Bay of Bengal,18.98,35.24,49.18,72.76,"Anchovy,Sardine,Grouper",no
+2024-10-31,39.8418,-26.9583,North Atlantic,11.17,35.07,48.63,39.84,"Tuna,Salmon",no
+2025-03-25,-32.4729,-8.8718,South Atlantic,9.15,30.81,66.03,59.89,"Tuna,Mackerel",no
+2025-07-26,58.0585,-146.7424,Gulf of Alaska,20.89,35.64,56.91,57.16,"Grouper,Salmon,Sardine",no
+2025-09-13,53.8306,-147.7814,Gulf of Alaska,20.21,32.43,73.61,45.42,"Tuna,Salmon,Sardine",yes
+2025-06-17,-28.9257,-16.3573,South Atlantic,25.35,32.98,67.51,54.18,"Grouper,Anchovy,Tuna",no
+2024-11-02,39.168,-26.2835,North Atlantic,20.23,34.62,66.23,72.06,"Tuna,Snapper,Cod",no
+2025-01-10,10.0843,112.2991,South China Sea,18.68,35.07,81.7,47.96,"Salmon,Anchovy",no
+2025-08-07,21.0911,87.914,Bay of Bengal,22.88,31.99,60.23,61.06,"Tuna,Sardine",no
+2024-10-19,-23.0645,-12.8412,South Atlantic,13.87,32.68,77.8,70.93,"Sardine,Anchovy",no
+2024-10-13,52.5504,-145.3299,Gulf of Alaska,17.72,33.61,75.53,60.79,"Sardine,Salmon",no
+2025-04-28,-27.6139,-5.0605,South Atlantic,23.51,35.2,56.98,50.48,"Cod,Sardine,Mackerel",no
+2025-08-19,10.7321,86.0158,Bay of Bengal,19.5,33.23,81.81,66.93,"Mackerel,Salmon",no
+2025-05-21,-29.7558,-12.8098,South Atlantic,20.07,34.02,52.19,58.43,"Tuna,Salmon",no
+2025-04-01,19.3841,62.256,Arabian Sea,22.81,33.73,31.68,57.82,"Cod,Anchovy",no
+2025-08-15,12.3381,116.7558,South China Sea,15.44,34.0,51.83,84.51,"Cod,Mackerel,Salmon",no
+2025-09-18,-25.9371,-8.0156,South Atlantic,14.75,33.03,68.44,52.66,"Sardine,Cod,Tuna",no
+2024-11-28,50.5594,-143.1512,Gulf of Alaska,21.06,32.64,56.89,35.54,"Sardine,Tuna",no
+2025-05-13,21.6954,89.1792,Bay of Bengal,19.45,33.35,57.54,86.48,"Tuna,Anchovy",no
+2025-07-25,22.1806,58.7776,Arabian Sea,16.0,33.0,65.21,59.26,"Anchovy,Sardine",no
+2025-04-25,8.7683,112.6869,South China Sea,23.7,34.0,59.7,52.45,"Grouper,Anchovy",no
+2025-04-09,55.9828,-146.2894,Gulf of Alaska,28.48,35.41,49.76,43.91,"Tuna,Mackerel",yes
+2025-01-28,-29.243,-11.435,South Atlantic,14.39,32.22,46.26,53.27,"Salmon,Snapper",no
+2025-01-05,10.8183,107.9922,South China Sea,22.28,35.11,55.95,54.2,"Grouper,Salmon",no
+2025-08-09,-32.3482,-6.4105,South Atlantic,25.31,34.9,64.65,36.76,"Sardine,Grouper",no
+2024-11-09,21.0323,65.1615,Arabian Sea,20.29,33.59,69.08,59.19,"Snapper,Anchovy,Grouper",no
+2025-05-11,16.3753,70.1345,Arabian Sea,16.24,33.64,57.66,67.24,"Salmon,Mackerel,Cod",no
+2025-03-18,42.5466,-32.0963,North Atlantic,24.73,35.23,67.09,60.52,"Cod,Salmon,Snapper",no
+2025-07-21,48.1636,-129.0254,Pacific Northwest,14.74,33.85,77.75,84.79,"Anchovy,Tuna",no
+2024-12-06,36.233,-28.5385,North Atlantic,12.55,31.77,61.49,60.12,"Salmon,Grouper",no
+2025-02-18,16.5948,84.046,Bay of Bengal,19.37,31.74,47.23,62.58,"Grouper,Sardine",no
+2025-01-14,18.325,85.142,Bay of Bengal,23.54,33.01,40.46,61.52,"Sardine,Tuna",no
+2024-11-07,50.926,-134.5776,Pacific Northwest,22.3,32.51,70.49,61.12,"Cod,Anchovy,Sardine",no
+2025-06-01,9.7032,114.7818,South China Sea,30.62,34.72,35.78,65.46,"Sardine,Mackerel",no
+2025-09-17,-10.6145,77.779,Indian Ocean,19.75,34.93,70.48,51.16,"Salmon,Grouper",no
+2025-05-17,-11.4253,84.5364,Indian Ocean,30.82,34.2,41.24,80.2,"Sardine,Mackerel,Anchovy",no
+2025-03-27,41.8991,-128.5242,Pacific Northwest,18.94,33.96,78.85,73.91,"Salmon,Sardine,Mackerel",no
+2025-01-05,12.7602,114.0841,South China Sea,10.84,33.02,47.28,60.35,"Salmon,Snapper,Cod",no
+2025-03-30,-32.4429,-8.4203,South Atlantic,23.35,34.58,63.28,65.74,"Anchovy,Snapper,Cod",no
+2025-05-15,51.8195,-145.6128,Gulf of Alaska,25.35,34.47,66.61,64.89,"Anchovy,Salmon,Cod",no
+2025-08-30,-21.0547,79.7588,Indian Ocean,15.99,32.22,80.32,62.15,"Cod,Anchovy,Salmon",no
+2025-08-26,55.8885,-145.0257,Gulf of Alaska,15.04,33.99,72.76,41.73,"Mackerel,Cod",no
+2024-12-27,11.5985,110.4951,South China Sea,20.83,36.89,61.11,54.07,"Mackerel,Grouper,Snapper",no
+2025-07-26,20.444,87.016,Bay of Bengal,30.69,35.13,47.69,58.59,"Sardine,Salmon",no
+2025-05-13,57.6921,-148.0393,Gulf of Alaska,18.1,33.62,79.72,77.82,"Salmon,Grouper,Sardine",no
+2025-05-25,16.1381,91.5826,Bay of Bengal,26.88,32.12,49.61,44.44,"Anchovy,Snapper,Sardine",no
+2025-05-07,13.7322,59.1434,Arabian Sea,15.03,34.43,70.26,68.09,"Sardine,Grouper,Salmon",no
+2024-11-11,-26.4729,-15.2893,South Atlantic,27.13,33.53,59.05,46.78,"Anchovy,Mackerel,Tuna",no
+2025-03-08,58.4673,-152.7558,Gulf of Alaska,20.18,32.37,70.69,66.19,"Mackerel,Grouper",no
+2024-10-08,47.7817,-125.9173,Pacific Northwest,10.14,34.92,63.87,57.3,"Grouper,Mackerel,Tuna",no
+2025-01-22,11.4015,86.4649,Bay of Bengal,19.76,35.07,60.22,51.42,"Salmon,Snapper",no
+2024-12-27,18.8624,107.4776,South China Sea,21.89,32.37,72.4,45.59,"Sardine,Grouper,Anchovy",no
+2025-06-19,39.7714,-29.0304,North Atlantic,22.9,33.99,46.9,73.69,"Sardine,Cod",no
+2024-11-02,12.8768,82.1932,Bay of Bengal,19.8,35.94,68.02,52.88,"Snapper,Salmon,Grouper",no
+2025-06-20,-18.0888,77.8238,Indian Ocean,23.42,31.22,71.91,58.57,"Mackerel,Snapper,Anchovy",no
+2025-01-02,54.5166,-151.1894,Gulf of Alaska,19.16,32.54,72.54,67.37,"Mackerel,Sardine,Cod",no
+2025-09-17,42.7737,-30.8914,North Atlantic,17.13,34.71,64.4,64.68,"Salmon,Grouper,Sardine",no
+2025-04-13,56.9062,-145.3399,Gulf of Alaska,14.09,35.01,56.84,60.17,"Tuna,Anchovy",no
+2024-11-17,20.3876,69.7264,Arabian Sea,15.78,32.52,58.33,54.55,"Salmon,Anchovy",no
+2025-08-28,-16.6337,82.3513,Indian Ocean,22.11,33.1,67.67,69.17,"Anchovy,Cod",no
+2025-09-14,-21.6761,76.728,Indian Ocean,15.55,34.11,55.64,58.28,"Salmon,Tuna",no
+2024-11-24,-13.7229,81.2071,Indian Ocean,20.07,31.69,59.65,48.55,"Anchovy,Snapper",no
+2025-09-18,-25.7234,-7.5637,South Atlantic,14.07,35.02,68.55,50.24,"Snapper,Mackerel,Anchovy",no
+2024-11-20,50.7701,-146.6344,Gulf of Alaska,21.3,33.66,63.02,54.66,"Snapper,Anchovy",no
+2025-09-05,55.4993,-146.9286,Gulf of Alaska,13.07,32.66,38.05,65.07,"Sardine,Grouper",no
+2024-12-16,16.113,88.8071,Bay of Bengal,12.78,33.9,76.25,85.08,"Salmon,Sardine,Cod",no
+2025-08-05,-18.0153,82.1559,Indian Ocean,19.05,34.84,61.57,58.72,"Tuna,Grouper",no
+2024-12-24,46.4812,-131.7376,Pacific Northwest,11.94,36.44,82.77,58.18,"Sardine,Mackerel,Salmon",no
+2025-04-27,46.5274,-125.9767,Pacific Northwest,12.72,33.81,61.4,74.44,"Snapper,Tuna",no
+2025-03-06,46.8636,-126.6256,Pacific Northwest,19.5,34.61,62.25,51.81,"Salmon,Tuna,Snapper",no
+2025-02-17,19.4711,68.5063,Arabian Sea,13.67,33.17,62.92,54.09,"Salmon,Tuna",no
+2025-05-27,52.0224,-147.8027,Gulf of Alaska,21.02,35.4,67.89,63.52,"Anchovy,Cod,Salmon",no
+2025-04-28,15.8513,64.8665,Arabian Sea,18.0,36.53,83.42,59.92,"Cod,Sardine,Tuna",no
+2024-11-24,-18.7834,79.3515,Indian Ocean,20.61,34.34,69.48,74.34,"Sardine,Mackerel",no
+2025-08-31,44.3526,-27.6871,North Atlantic,17.66,33.84,68.28,64.57,"Mackerel,Snapper,Salmon",no
+2025-01-20,18.5693,65.9878,Arabian Sea,9.88,33.27,66.05,66.19,"Anchovy,Salmon,Snapper",no
+2025-01-27,49.6699,-145.9779,Gulf of Alaska,31.51,31.01,58.18,16.77,"Tuna,Anchovy,Cod",no
+2024-11-20,37.9501,-128.6616,Pacific Northwest,26.91,34.55,58.04,57.33,"Anchovy,Grouper,Cod",no
+2025-08-08,17.2493,115.3887,South China Sea,8.07,31.73,41.69,34.52,"Grouper,Mackerel",no
+2025-09-13,40.7092,-127.6686,Pacific Northwest,23.61,33.18,57.06,37.49,"Salmon,Mackerel,Sardine",no
+2024-10-31,55.5062,-146.8634,Gulf of Alaska,21.47,33.6,65.93,75.04,"Sardine,Cod,Anchovy",no
+2025-06-19,11.4415,110.0597,South China Sea,23.14,33.17,63.59,61.17,"Salmon,Cod,Snapper",no
+2025-07-05,38.4756,-34.9374,North Atlantic,22.3,34.35,69.9,56.89,"Tuna,Salmon",no
+2025-01-16,-17.6253,77.0189,Indian Ocean,9.6,36.3,66.9,60.71,"Sardine,Salmon",no
+2025-06-16,10.9448,111.1929,South China Sea,28.62,34.99,70.76,63.04,"Cod,Mackerel",no
+2024-12-17,39.459,-130.8358,Pacific Northwest,26.87,34.9,52.47,48.57,"Mackerel,Grouper",no
+2025-05-16,56.2922,-147.4998,Gulf of Alaska,15.22,35.3,33.12,63.09,"Grouper,Snapper,Sardine",no
+2025-07-30,44.2759,-130.0237,Pacific Northwest,17.22,35.55,73.17,59.05,"Snapper,Grouper,Salmon",no
+2025-08-31,64.5396,-147.546,Gulf of Alaska,21.17,31.43,58.22,65.94,"Mackerel,Snapper",no
+2025-03-14,-14.9031,84.1122,Indian Ocean,20.25,33.5,46.91,67.91,"Snapper,Tuna,Salmon",no
+2024-11-03,-11.5964,82.2971,Indian Ocean,26.79,34.88,58.95,66.87,"Anchovy,Sardine",no
+2025-06-10,-19.5032,77.792,Indian Ocean,19.22,34.58,70.8,75.49,"Salmon,Sardine,Snapper",no
+2025-07-30,40.7157,-32.5435,North Atlantic,18.87,34.48,34.17,91.52,"Snapper,Salmon,Grouper",no
+2025-09-09,60.7821,-149.0423,Gulf of Alaska,20.8,33.27,80.93,60.09,"Anchovy,Cod",no
+2024-11-12,46.7554,-130.163,Pacific Northwest,26.66,37.81,55.85,47.36,"Snapper,Anchovy,Cod",no
+2025-04-15,-16.7976,79.165,Indian Ocean,10.78,32.22,50.37,55.45,"Anchovy,Snapper,Grouper",no
+2025-07-21,42.2638,-132.1839,Pacific Northwest,28.25,35.69,49.78,51.24,"Snapper,Mackerel",no
+2025-05-15,-13.8239,86.818,Indian Ocean,21.23,32.84,67.64,53.54,"Tuna,Sardine",no
+2024-12-16,48.3535,-130.9327,Pacific Northwest,17.74,32.56,67.97,51.04,"Salmon,Mackerel,Cod",no
+2025-04-05,19.3995,65.7172,Arabian Sea,25.3,35.16,51.27,62.49,"Cod,Mackerel",no
+2025-07-13,41.0251,-31.148,North Atlantic,12.02,34.22,56.01,41.22,"Sardine,Salmon,Grouper",no
+2025-09-12,52.5851,-131.1736,Pacific Northwest,16.77,32.34,69.62,59.11,"Cod,Snapper,Tuna",yes
+2025-06-20,12.064,66.7791,Arabian Sea,15.38,33.95,50.48,57.75,"Snapper,Grouper,Cod",no
+2025-08-20,-13.5608,84.3172,Indian Ocean,24.4,35.44,71.67,64.62,"Sardine,Mackerel,Snapper",no
+2025-04-07,43.219,-28.0543,North Atlantic,11.27,32.74,53.8,68.04,"Snapper,Mackerel,Sardine",no
+2025-06-30,-26.0543,-6.4025,South Atlantic,27.23,32.44,56.36,49.93,"Sardine,Snapper,Mackerel",no
+2025-05-07,58.9742,-146.6178,Gulf of Alaska,32.11,34.27,66.26,65.8,"Cod,Sardine,Snapper",no
+2025-04-09,58.3317,-149.5064,Gulf of Alaska,16.12,35.92,77.82,68.98,"Anchovy,Sardine",no
+2025-06-18,14.8204,89.3476,Bay of Bengal,29.32,34.55,67.11,73.01,"Salmon,Grouper",no
+2025-02-25,17.1178,117.9949,South China Sea,27.12,34.04,49.59,71.72,"Grouper,Anchovy",no
+2025-07-21,46.3636,-129.8458,Pacific Northwest,18.03,33.76,71.29,84.4,"Tuna,Sardine",no
+2025-03-01,42.4039,-127.8501,Pacific Northwest,28.2,36.44,51.63,59.71,"Anchovy,Salmon,Sardine",no
+2025-05-22,15.9419,87.1748,Bay of Bengal,20.83,34.68,61.41,58.7,"Anchovy,Cod,Tuna",no
+2025-09-07,14.3869,60.2216,Arabian Sea,14.26,33.85,71.47,71.32,"Sardine,Cod,Mackerel",yes
+2024-10-04,12.9237,86.2676,Bay of Bengal,19.88,31.62,54.63,39.66,"Grouper,Salmon",no
+2024-11-26,56.8332,-153.519,Gulf of Alaska,11.1,34.99,28.41,74.72,"Cod,Tuna",no
+2024-10-06,-17.6658,83.1467,Indian Ocean,35.0,30.59,42.95,26.25,"Sardine,Grouper,Mackerel",no
+2024-10-02,15.3893,84.2649,Bay of Bengal,24.68,31.83,69.05,49.23,"Sardine,Cod,Tuna",no
+2024-12-19,54.798,-142.2771,Gulf of Alaska,27.33,32.8,50.49,60.47,"Anchovy,Sardine,Salmon",no
+2025-04-15,-14.4711,79.4004,Indian Ocean,19.7,35.96,66.64,50.48,"Tuna,Sardine",no
+2024-11-11,13.7937,61.7489,Arabian Sea,28.99,33.69,55.06,33.71,"Anchovy,Sardine,Snapper",no
+2025-01-23,-31.4443,-9.4571,South Atlantic,17.03,30.81,77.27,51.99,"Tuna,Anchovy,Salmon",no
+2024-11-22,-19.4096,80.6717,Indian Ocean,29.68,34.3,32.81,66.18,"Grouper,Anchovy",no
+2025-06-18,-13.1798,71.0425,Indian Ocean,23.27,32.49,45.24,55.21,"Snapper,Grouper",no
+2024-12-09,20.1137,66.29,Arabian Sea,20.28,32.7,55.64,70.8,"Mackerel,Sardine",no
+2024-12-04,39.5044,-30.2875,North Atlantic,9.75,33.78,59.64,47.86,"Grouper,Mackerel,Sardine",no
+2025-04-17,43.0687,-127.436,Pacific Northwest,6.79,34.52,63.77,79.68,"Cod,Salmon",no
+2024-10-02,13.0926,86.0912,Bay of Bengal,23.26,32.79,67.05,84.54,"Sardine,Salmon",no
+2025-06-09,40.9658,-127.6703,Pacific Northwest,19.64,35.32,61.38,68.39,"Cod,Mackerel,Anchovy",no
+2025-03-15,43.797,-133.5912,Pacific Northwest,31.94,33.86,48.57,57.83,"Mackerel,Grouper,Tuna",no
+2025-02-12,15.3036,110.4378,South China Sea,14.78,34.23,68.54,83.55,"Tuna,Sardine",no
+2025-05-24,42.1578,-33.459,North Atlantic,14.22,32.37,49.12,66.42,"Sardine,Cod,Salmon",no
+2025-04-18,-22.7781,86.1664,Indian Ocean,14.63,37.08,48.78,39.86,"Salmon,Cod,Mackerel",no
+2025-09-10,-33.3038,-13.219,South Atlantic,11.76,35.17,64.64,80.91,"Anchovy,Grouper,Tuna",no
+2025-09-11,11.132,85.9949,Bay of Bengal,16.89,34.7,77.94,73.41,"Sardine,Grouper,Snapper",no
+2025-01-31,44.8677,-130.9738,Pacific Northwest,15.75,33.16,82.92,64.49,"Sardine,Snapper,Tuna",no
+2025-09-19,62.3379,-144.085,Gulf of Alaska,15.67,33.59,63.2,64.7,"Sardine,Grouper,Tuna",no
+2025-06-13,49.3563,-133.9409,Pacific Northwest,13.23,33.28,56.09,85.36,"Salmon,Cod",no
+2025-05-07,44.2069,-130.8589,Pacific Northwest,11.29,35.17,61.49,74.57,"Tuna,Mackerel,Cod",no
+2025-06-05,55.5101,-145.3243,Gulf of Alaska,11.18,35.1,56.15,46.78,"Salmon,Mackerel",no
+2025-02-06,22.3431,69.0241,Arabian Sea,22.13,36.94,61.31,61.72,"Sardine,Salmon,Cod",no
+2025-08-31,37.9675,-36.1816,North Atlantic,27.72,33.04,42.54,46.03,"Anchovy,Mackerel,Grouper",no
+2025-03-06,-23.7187,-14.9826,South Atlantic,17.87,32.45,79.63,60.68,"Anchovy,Salmon,Grouper",no
+2024-09-27,16.5677,68.8427,Arabian Sea,23.28,35.0,32.77,59.17,"Salmon,Grouper,Mackerel",no
+2025-01-03,49.4587,-148.9403,Gulf of Alaska,12.79,36.57,62.02,42.95,"Snapper,Cod",no
+2025-03-12,-33.2549,-9.8907,South Atlantic,25.07,31.09,52.04,62.56,"Salmon,Anchovy",no
+2025-09-22,12.1979,117.1431,South China Sea,18.62,33.74,77.31,47.8,"Cod,Sardine,Mackerel",no
+2025-06-20,54.3374,-149.3672,Gulf of Alaska,19.17,35.27,73.21,49.65,"Snapper,Cod,Grouper",no
+2025-07-25,-32.4941,-9.5645,South Atlantic,18.84,33.91,52.01,81.46,"Snapper,Grouper",no
+2024-12-18,38.1359,-31.8765,North Atlantic,27.28,35.49,53.53,66.68,"Salmon,Anchovy",no
+2025-05-27,16.0151,66.7122,Arabian Sea,15.84,36.23,62.52,54.11,"Grouper,Tuna,Sardine",no
+2024-12-01,17.1063,63.9099,Arabian Sea,25.36,33.01,54.01,60.15,"Sardine,Tuna,Cod",no
+2024-12-05,50.4249,-130.4696,Pacific Northwest,18.57,33.74,55.69,51.28,"Sardine,Cod",no
+2025-01-16,14.9006,85.5461,Bay of Bengal,27.36,36.33,63.84,43.13,"Anchovy,Salmon",no
+2024-11-10,45.7234,-130.8029,Pacific Northwest,24.31,35.51,51.67,60.08,"Snapper,Anchovy",no
+2025-01-18,12.037,108.6568,South China Sea,14.1,33.16,66.97,56.91,"Cod,Salmon",no
+2025-08-23,51.5591,-146.7136,Gulf of Alaska,26.79,33.88,50.4,68.89,"Sardine,Snapper",no
+2025-04-28,64.3057,-148.368,Gulf of Alaska,19.29,35.12,83.88,71.12,"Cod,Mackerel,Anchovy",no
+2025-06-06,-22.2842,-8.1327,South Atlantic,13.07,34.42,47.34,77.68,"Cod,Sardine,Grouper",no
+2025-02-03,9.4267,110.3607,South China Sea,28.92,34.16,42.57,50.48,"Snapper,Sardine,Cod",no
+2024-10-30,-29.6641,-7.0593,South Atlantic,16.64,36.36,60.1,50.36,"Snapper,Mackerel,Anchovy",no
+2025-02-19,21.2925,81.7145,Bay of Bengal,17.92,35.9,55.38,62.31,"Snapper,Sardine,Grouper",no
+2024-09-26,15.8891,88.6508,Bay of Bengal,30.57,36.92,44.25,44.0,"Sardine,Tuna",no
+2025-07-10,35.8847,-30.7577,North Atlantic,20.62,33.25,67.57,92.0,"Anchovy,Tuna,Sardine",no
+2025-05-20,48.046,-129.2812,Pacific Northwest,28.64,34.25,46.24,42.36,"Anchovy,Tuna,Mackerel",no
+2024-12-18,46.138,-134.0867,Pacific Northwest,27.53,34.05,48.49,54.65,"Sardine,Snapper,Anchovy",no
+2024-12-24,-17.9561,83.565,Indian Ocean,22.13,33.65,68.16,63.35,"Tuna,Anchovy",no
+2024-09-28,-23.7888,-11.7389,South Atlantic,29.34,33.72,55.4,72.39,"Salmon,Grouper",yes
+2025-08-19,48.2269,-124.4607,Pacific Northwest,18.45,34.05,63.87,60.58,"Salmon,Cod",no
+2025-01-14,9.1736,116.8327,South China Sea,23.75,37.18,54.0,50.61,"Salmon,Snapper,Mackerel",no
+2025-01-01,6.6777,114.0549,South China Sea,21.94,33.91,58.21,53.83,"Salmon,Cod,Grouper",no
+2024-10-09,56.5357,-141.7766,Gulf of Alaska,28.91,31.74,42.81,58.77,"Anchovy,Tuna,Salmon",no
+2025-03-02,41.1559,-30.0301,North Atlantic,31.49,33.62,54.71,47.9,"Mackerel,Anchovy,Cod",no
+2025-04-30,21.2512,61.1278,Arabian Sea,20.14,31.93,63.9,64.68,"Cod,Snapper",no
+2025-08-18,-18.3894,78.0549,Indian Ocean,30.55,34.11,34.88,60.68,"Anchovy,Tuna,Mackerel",no
+2025-09-04,16.081,111.5726,South China Sea,31.34,33.86,42.95,71.98,"Salmon,Snapper,Tuna",no
+2025-01-21,14.853,91.4581,Bay of Bengal,25.79,32.3,66.85,53.35,"Salmon,Snapper,Sardine",no
+2024-10-23,39.3917,-25.3846,North Atlantic,22.04,34.31,70.92,76.57,"Snapper,Anchovy",no
+2024-11-03,13.826,112.503,South China Sea,27.44,33.86,51.46,84.98,"Mackerel,Grouper",no
+2025-06-14,38.6393,-25.6105,North Atlantic,24.8,34.47,53.18,66.61,"Snapper,Anchovy",yes
+2024-09-29,-14.6129,80.7963,Indian Ocean,17.75,35.36,82.38,69.86,"Cod,Anchovy",no
+2025-05-04,15.2339,83.2928,Bay of Bengal,24.04,34.22,83.86,81.39,"Mackerel,Salmon",no
+2024-10-13,45.4912,-133.0111,Pacific Northwest,9.57,32.69,52.65,33.19,"Salmon,Sardine",yes
+2025-01-11,-15.6463,78.0148,Indian Ocean,17.95,36.59,76.52,45.35,"Tuna,Sardine",no
+2025-08-25,52.6961,-150.3074,Gulf of Alaska,26.06,33.37,42.93,61.33,"Salmon,Tuna",no
+2025-07-22,-30.1222,-7.3961,South Atlantic,22.71,37.34,73.1,65.66,"Anchovy,Mackerel,Tuna",no
+2024-12-22,15.4892,89.9212,Bay of Bengal,16.64,34.16,60.81,68.97,"Cod,Sardine",yes
+2024-10-30,16.2404,86.5869,Bay of Bengal,8.43,31.82,39.4,43.49,"Mackerel,Sardine",no
+2025-07-14,-26.8042,-7.7416,South Atlantic,26.43,34.91,55.23,73.63,"Anchovy,Snapper,Grouper",no
+2024-10-03,48.8132,-137.0374,Pacific Northwest,18.26,33.54,81.01,81.56,"Cod,Mackerel",no
+2024-10-15,36.4857,-33.4236,North Atlantic,18.59,33.52,53.23,70.41,"Tuna,Cod",no
+2025-05-07,10.6996,111.8813,South China Sea,19.82,36.53,38.02,40.86,"Tuna,Salmon,Mackerel",no
+2025-02-02,-15.775,79.6218,Indian Ocean,16.05,34.1,72.39,61.68,"Snapper,Tuna",yes
+2024-12-24,-30.0223,-15.221,South Atlantic,22.77,33.32,73.08,68.71,"Tuna,Mackerel",no
+2025-05-05,-31.1142,-13.7274,South Atlantic,15.77,35.88,80.41,41.83,"Tuna,Anchovy,Salmon",no
+2025-06-29,56.7568,-153.2794,Gulf of Alaska,10.38,34.73,35.27,55.97,"Grouper,Anchovy",yes
+2025-03-02,44.5748,-131.0973,Pacific Northwest,25.07,34.43,49.39,63.31,"Tuna,Mackerel",no
+2025-08-17,-12.641,83.6437,Indian Ocean,16.34,33.21,64.32,59.35,"Cod,Mackerel",no
+2025-02-02,-27.3499,-10.917,South Atlantic,23.85,34.33,65.5,47.2,"Cod,Snapper",no
+2025-04-04,46.8709,-131.8853,Pacific Northwest,5.0,32.38,43.39,57.65,"Salmon,Anchovy",no
+2025-01-09,12.2446,111.9028,South China Sea,26.63,33.11,51.35,47.5,"Anchovy,Salmon",no
+2025-07-08,16.1775,84.8774,Bay of Bengal,19.31,34.76,64.87,54.76,"Grouper,Snapper",no
+2025-09-06,53.9258,-149.3613,Gulf of Alaska,11.98,34.12,56.16,60.56,"Mackerel,Cod",no
+2024-10-26,-27.8953,-8.3418,South Atlantic,18.56,33.15,58.45,53.63,"Mackerel,Snapper,Sardine",no
+2025-02-16,55.2882,-150.8964,Gulf of Alaska,10.03,35.23,49.32,48.81,"Tuna,Grouper",no
+2025-03-12,22.1247,62.7908,Arabian Sea,18.71,35.61,50.48,80.57,"Tuna,Snapper",no
+2025-04-24,44.7075,-132.1568,Pacific Northwest,18.41,33.37,77.29,60.51,"Grouper,Tuna,Salmon",no
+2025-08-15,-13.4556,76.4488,Indian Ocean,10.12,36.99,47.82,48.41,"Salmon,Cod,Snapper",no
+2025-04-24,60.3184,-146.2602,Gulf of Alaska,10.89,31.92,51.79,51.4,"Anchovy,Salmon",no
+2025-07-11,8.741,116.4799,South China Sea,30.92,33.63,48.54,48.35,"Salmon,Grouper",no
+2025-03-12,41.7383,-130.868,Pacific Northwest,17.21,33.51,77.91,53.14,"Salmon,Mackerel,Sardine",no
+2025-01-18,59.8463,-151.0495,Gulf of Alaska,19.99,33.26,62.57,70.94,"Cod,Mackerel",no
+2025-09-12,13.7854,87.5528,Bay of Bengal,15.31,32.51,53.15,52.31,"Anchovy,Sardine",no
+2025-07-11,39.8609,-25.4519,North Atlantic,26.73,33.12,38.57,66.13,"Salmon,Grouper,Cod",no
+2025-07-24,11.3592,117.4939,South China Sea,9.64,35.38,52.27,54.14,"Cod,Mackerel,Salmon",no
+2024-10-20,57.0284,-142.6446,Gulf of Alaska,26.05,33.11,43.86,44.12,"Salmon,Anchovy",no
+2025-04-21,16.4407,113.5752,South China Sea,21.98,33.54,68.65,62.51,"Salmon,Grouper,Anchovy",no
+2025-04-26,54.5681,-150.395,Gulf of Alaska,23.6,33.9,63.69,59.07,"Tuna,Grouper",no
+2025-06-06,44.6398,-27.3486,North Atlantic,17.67,33.55,83.17,58.5,"Grouper,Sardine",no
+2025-05-17,-15.143,85.3053,Indian Ocean,11.61,34.78,77.93,61.47,"Cod,Anchovy",no
+2025-07-31,15.247,109.6896,South China Sea,19.43,32.15,82.71,69.6,"Cod,Salmon,Grouper",no
+2025-02-27,49.6077,-131.0978,Pacific Northwest,13.37,31.36,54.28,34.33,"Mackerel,Sardine,Snapper",no
+2025-07-05,13.8738,88.0671,Bay of Bengal,15.66,34.1,84.53,60.33,"Mackerel,Tuna,Sardine",no
+2025-08-15,44.5603,-31.4316,North Atlantic,26.3,33.82,59.51,72.13,"Salmon,Snapper",no
+2024-09-25,15.723,66.3338,Arabian Sea,17.66,34.52,64.7,62.98,"Mackerel,Snapper,Sardine",no
+2025-07-13,55.1326,-149.6205,Gulf of Alaska,19.67,34.2,60.5,62.45,"Grouper,Tuna",no
+2024-11-18,21.1774,64.8193,Arabian Sea,27.03,31.03,26.36,45.36,"Mackerel,Cod,Snapper",no
+2024-12-02,55.617,-145.2388,Gulf of Alaska,13.17,34.6,60.48,66.17,"Cod,Sardine,Grouper",no
+2025-08-25,11.6895,117.3225,South China Sea,15.26,35.11,63.92,55.5,"Salmon,Mackerel,Anchovy",yes
+2024-10-06,-37.9859,-19.1886,South Atlantic,27.63,35.85,69.6,55.56,"Sardine,Grouper,Mackerel",no
+2025-09-18,45.0343,-133.0211,Pacific Northwest,29.89,37.36,51.0,48.07,"Grouper,Tuna,Salmon",no
+2025-07-15,-29.7711,-10.8675,South Atlantic,22.89,33.12,61.69,43.3,"Anchovy,Salmon,Cod",no
+2024-11-19,-26.5236,-10.6034,South Atlantic,19.18,32.18,75.23,45.4,"Snapper,Sardine",no
+2024-10-08,15.3637,81.8817,Bay of Bengal,18.62,35.19,64.99,56.34,"Tuna,Salmon",yes
+2024-10-19,41.9085,-130.109,Pacific Northwest,25.96,32.42,50.33,40.54,"Mackerel,Grouper",no
+2024-10-27,9.4494,112.2768,South China Sea,12.78,32.45,44.96,44.45,"Anchovy,Sardine,Salmon",no
+2025-01-05,19.3987,61.4911,Arabian Sea,24.56,32.46,57.28,57.94,"Grouper,Mackerel,Salmon",no
+2024-12-10,16.2213,66.0551,Arabian Sea,32.83,31.56,31.92,49.93,"Anchovy,Cod",no
+2024-10-06,51.0873,-143.7881,Gulf of Alaska,11.46,33.7,67.39,63.14,"Tuna,Grouper",no
+2025-07-31,39.31,-32.2711,North Atlantic,21.23,31.9,71.67,55.88,"Anchovy,Salmon",no
+2025-04-17,43.6866,-132.1775,Pacific Northwest,16.71,33.71,66.52,53.59,"Tuna,Mackerel,Cod",no
+2025-01-09,-13.9205,80.4088,Indian Ocean,27.2,36.93,59.2,66.92,"Grouper,Salmon,Mackerel",no
+2025-07-13,60.5526,-145.1465,Gulf of Alaska,24.24,33.69,57.11,59.41,"Salmon,Mackerel",no
+2025-03-11,54.4267,-155.0655,Gulf of Alaska,30.34,33.67,49.88,80.84,"Grouper,Snapper,Sardine",no
+2025-02-17,41.2748,-122.8079,Pacific Northwest,26.52,34.31,67.21,49.41,"Anchovy,Sardine",no
+2024-10-23,6.3988,113.6814,South China Sea,23.19,36.95,43.78,69.55,"Salmon,Cod,Grouper",no
+2024-11-08,11.334,83.7364,Bay of Bengal,22.42,32.33,68.56,48.7,"Tuna,Grouper",no
+2025-05-22,16.0101,86.1679,Bay of Bengal,20.21,35.04,76.41,56.06,"Snapper,Salmon",no
+2024-11-13,-13.5881,75.6178,Indian Ocean,14.66,32.92,61.23,50.47,"Snapper,Mackerel",no
+2025-02-07,7.2608,110.9983,South China Sea,18.95,31.82,62.04,49.28,"Salmon,Tuna",no
+2025-03-16,-16.9847,84.4335,Indian Ocean,22.93,32.79,61.09,60.43,"Mackerel,Snapper",no
+2025-07-06,20.302,64.1256,Arabian Sea,28.95,35.94,50.07,52.17,"Cod,Grouper,Snapper",yes
+2025-08-17,23.0409,64.2354,Arabian Sea,17.57,33.31,57.0,68.23,"Grouper,Snapper",no
+2025-08-22,14.1212,64.3817,Arabian Sea,26.9,30.77,72.38,43.75,"Mackerel,Snapper,Grouper",no
+2025-03-29,17.1784,87.8217,Bay of Bengal,25.98,34.78,71.64,67.37,"Salmon,Anchovy,Grouper",no
+2025-07-01,12.5827,71.8333,Arabian Sea,16.55,36.24,67.38,66.52,"Anchovy,Grouper",no
+2025-09-06,-30.7596,-5.263,South Atlantic,22.63,35.4,39.1,56.95,"Anchovy,Salmon,Grouper",no
+2025-07-30,57.8835,-149.0977,Gulf of Alaska,20.29,35.77,42.63,63.21,"Sardine,Mackerel,Grouper",yes
+2025-01-17,46.0096,-126.3176,Pacific Northwest,26.23,33.8,62.29,74.4,"Tuna,Salmon",yes
+2025-06-27,10.0943,114.5136,South China Sea,19.75,32.43,49.66,67.14,"Cod,Anchovy,Grouper",no
+2025-01-27,18.7191,83.0732,Bay of Bengal,19.73,33.74,70.34,78.59,"Snapper,Anchovy",no
+2024-11-21,-26.9054,-10.5591,South Atlantic,19.18,34.63,71.1,68.85,"Anchovy,Cod,Grouper",no
+2025-01-22,-12.0292,83.5003,Indian Ocean,21.12,31.76,62.62,56.13,"Salmon,Anchovy,Tuna",no
+2025-05-16,-34.2281,-8.1781,South Atlantic,21.0,31.53,67.52,51.98,"Salmon,Anchovy,Grouper",no
+2025-01-26,15.5956,61.6875,Arabian Sea,16.77,34.03,69.02,62.57,"Sardine,Anchovy,Snapper",no
+2024-11-08,52.5232,-132.3122,Pacific Northwest,16.65,38.0,71.51,28.44,"Salmon,Cod",no
+2024-12-07,42.7272,-30.6329,North Atlantic,17.36,36.41,74.39,64.61,"Salmon,Snapper",no
+2024-11-14,13.8341,115.6276,South China Sea,20.81,36.7,72.89,54.03,"Mackerel,Grouper",no
+2024-12-05,-33.7537,-10.2702,South Atlantic,21.33,33.38,66.72,62.14,"Mackerel,Snapper,Sardine",no
+2025-02-02,-14.4985,75.8984,Indian Ocean,30.74,33.79,43.7,59.83,"Tuna,Sardine",no
+2025-04-21,44.1581,-28.6668,North Atlantic,19.35,34.93,68.03,58.07,"Salmon,Anchovy,Cod",no
+2025-04-20,40.7568,-29.3873,North Atlantic,23.62,33.07,65.87,49.48,"Snapper,Mackerel",no
+2025-03-03,11.7838,90.047,Bay of Bengal,14.19,32.95,74.93,52.91,"Cod,Mackerel,Salmon",no
+2024-10-16,-27.5011,-7.4598,South Atlantic,24.43,34.81,57.87,54.68,"Mackerel,Anchovy",no
+2025-04-04,47.2944,-132.0799,Pacific Northwest,20.24,33.55,54.24,64.88,"Tuna,Snapper",yes
+2024-11-11,-34.4374,-14.6914,South Atlantic,17.77,33.87,60.79,72.17,"Sardine,Tuna",no
+2024-11-24,-15.5487,77.6386,Indian Ocean,20.68,32.11,70.02,44.28,"Tuna,Grouper",no
+2025-07-16,21.1876,60.6321,Arabian Sea,15.93,34.57,77.57,82.14,"Tuna,Grouper,Salmon",no
+2025-06-09,-15.869,83.2963,Indian Ocean,14.35,34.63,39.28,48.39,"Snapper,Cod",no
+2025-06-03,-13.7192,82.7194,Indian Ocean,16.99,32.55,63.24,46.14,"Grouper,Mackerel,Snapper",no
+2025-08-11,39.082,-24.9769,North Atlantic,15.68,36.09,54.95,55.44,"Mackerel,Sardine",no
+2025-08-01,38.7392,-28.3348,North Atlantic,22.53,33.19,67.11,83.3,"Mackerel,Anchovy,Tuna",no
+2024-12-30,17.0165,82.6171,Bay of Bengal,22.76,32.47,54.58,83.32,"Salmon,Anchovy",no
+2025-04-10,43.4577,-32.843,North Atlantic,17.32,35.87,69.06,36.89,"Tuna,Salmon",no
+2025-08-30,-10.3804,78.1814,Indian Ocean,26.31,36.66,44.88,49.36,"Cod,Sardine,Snapper",no
+2024-10-08,18.8109,63.3252,Arabian Sea,18.53,34.07,69.65,66.6,"Sardine,Snapper",no
+2024-10-15,-30.3558,-10.1343,South Atlantic,17.37,34.49,50.59,53.8,"Grouper,Snapper,Cod",no
+2025-05-27,44.8876,-29.9434,North Atlantic,21.06,33.28,63.72,46.79,"Snapper,Sardine,Salmon",no
+2025-02-04,54.1678,-155.6797,Gulf of Alaska,13.23,36.2,68.77,69.85,"Anchovy,Mackerel",no
+2025-06-07,10.6414,108.8882,South China Sea,26.88,34.1,77.18,60.13,"Grouper,Anchovy,Sardine",no
+2025-05-09,49.0081,-124.9099,Pacific Northwest,13.86,33.27,51.39,46.6,"Tuna,Grouper",no
+2025-06-02,18.1571,65.6687,Arabian Sea,8.86,35.93,48.22,61.74,"Mackerel,Tuna,Grouper",no
+2025-06-17,11.6854,105.6291,South China Sea,20.34,34.3,54.97,65.26,"Salmon,Mackerel,Snapper",no
+2024-12-25,17.0145,85.3088,Bay of Bengal,17.56,33.31,81.48,61.04,"Sardine,Salmon,Snapper",no
+2025-04-19,41.3886,-25.952,North Atlantic,23.89,35.03,64.29,43.29,"Anchovy,Grouper,Tuna",no
+2024-12-27,52.8224,-151.1936,Gulf of Alaska,8.77,31.98,48.97,54.07,"Tuna,Grouper,Cod",yes
+2025-05-23,-31.3015,-6.7283,South Atlantic,19.03,35.04,69.97,42.95,"Cod,Mackerel,Salmon",yes
+2025-08-27,39.6756,-32.2354,North Atlantic,22.29,31.99,61.56,61.8,"Mackerel,Grouper,Sardine",no
+2025-02-20,-29.9467,-9.4476,South Atlantic,29.28,31.78,38.32,87.54,"Salmon,Anchovy,Snapper",no
+2025-08-26,-16.7477,71.6934,Indian Ocean,21.45,35.21,53.99,53.28,"Mackerel,Grouper,Sardine",no
+2024-10-07,36.0353,-30.6843,North Atlantic,15.49,33.56,52.33,65.37,"Snapper,Cod,Salmon",no
+2025-02-15,18.6012,64.6201,Arabian Sea,11.32,34.74,53.34,59.31,"Sardine,Cod",no
+2025-01-26,49.0536,-125.6666,Pacific Northwest,24.52,32.53,35.1,70.59,"Anchovy,Grouper",no
+2025-09-19,15.5207,109.4153,South China Sea,17.46,34.79,57.77,59.75,"Anchovy,Snapper",no
+2025-09-01,18.7423,90.4008,Bay of Bengal,20.05,30.49,54.85,56.63,"Mackerel,Grouper,Sardine",no
+2024-10-26,-28.9846,-5.5913,South Atlantic,16.55,33.03,66.58,64.38,"Sardine,Mackerel",no
+2025-09-16,15.6026,64.3605,Arabian Sea,22.67,33.4,69.05,63.79,"Grouper,Mackerel",no
+2025-09-21,-28.8708,-11.8972,South Atlantic,16.22,35.84,72.79,43.54,"Sardine,Grouper,Snapper",no
+2025-05-03,13.2782,89.8831,Bay of Bengal,19.25,34.18,37.34,59.41,"Snapper,Sardine",no
+2025-05-04,14.8871,111.3692,South China Sea,19.01,32.0,65.94,39.87,"Salmon,Snapper",no
+2025-05-22,44.5261,-30.8117,North Atlantic,21.32,33.23,45.46,72.38,"Sardine,Tuna,Grouper",no
+2025-02-19,54.8362,-147.3085,Gulf of Alaska,15.64,31.24,57.27,42.23,"Mackerel,Grouper",no
+2024-12-10,14.3592,64.9029,Arabian Sea,20.95,35.44,62.77,67.29,"Tuna,Mackerel",no
+2024-12-04,35.4912,-37.9148,North Atlantic,22.27,34.65,66.22,55.47,"Mackerel,Sardine",no
+2024-12-10,-13.7374,81.7839,Indian Ocean,30.31,33.52,38.84,44.64,"Grouper,Snapper",no
+2024-12-26,56.3592,-138.6499,Gulf of Alaska,21.95,32.05,60.14,43.54,"Cod,Mackerel",no
+2025-07-06,13.2389,82.8202,Bay of Bengal,29.56,34.45,44.64,71.85,"Cod,Snapper,Sardine",no
+2024-12-25,-12.945,80.4018,Indian Ocean,24.02,35.13,59.58,56.71,"Tuna,Sardine",no
+2024-09-25,56.1739,-146.7583,Gulf of Alaska,16.34,32.79,63.15,53.03,"Grouper,Cod,Snapper",no
+2025-08-26,-14.2013,83.7978,Indian Ocean,23.33,30.1,65.76,38.81,"Cod,Mackerel",no
+2025-06-24,39.4219,-30.3067,North Atlantic,19.87,36.02,66.07,67.94,"Grouper,Tuna",no
+2025-03-03,12.6401,67.3499,Arabian Sea,17.25,35.07,58.78,45.41,"Cod,Mackerel",no
+2025-05-24,15.4383,112.3553,South China Sea,17.48,33.93,55.95,64.5,"Anchovy,Tuna",no
+2025-03-08,42.7759,-29.2374,North Atlantic,11.11,35.28,56.14,52.11,"Tuna,Salmon,Cod",no
+2025-08-04,11.503,92.5434,Bay of Bengal,19.9,33.88,62.16,78.55,"Tuna,Anchovy,Mackerel",no
+2025-08-11,15.964,67.9803,Arabian Sea,24.99,33.62,69.75,72.06,"Snapper,Tuna",yes
+2025-07-09,45.988,-132.4957,Pacific Northwest,20.03,34.46,49.08,60.41,"Tuna,Sardine",no
+2025-02-04,6.4665,110.8555,South China Sea,17.11,35.44,67.78,79.35,"Tuna,Grouper,Salmon",no
+2025-08-26,45.719,-131.0622,Pacific Northwest,25.16,32.0,47.45,60.48,"Sardine,Tuna,Salmon",no
+2025-01-23,-10.8766,79.5796,Indian Ocean,8.7,30.0,36.1,44.76,"Grouper,Mackerel,Tuna",no
+2025-06-12,13.3515,83.6759,Bay of Bengal,17.52,34.05,71.35,55.28,"Mackerel,Snapper",no
+2024-12-26,-17.6092,78.3728,Indian Ocean,26.45,33.8,46.16,75.12,"Salmon,Mackerel,Anchovy",no
+2025-06-21,43.7015,-26.8918,North Atlantic,16.37,34.04,53.91,62.34,"Sardine,Salmon,Mackerel",no
+2025-07-28,-32.2497,-10.8613,South Atlantic,23.19,33.82,40.97,55.15,"Sardine,Tuna,Grouper",no
+2024-10-07,46.51,-129.2304,Pacific Northwest,15.28,34.37,59.85,49.49,"Cod,Anchovy,Grouper",no
+2024-10-25,42.8467,-31.825,North Atlantic,27.08,33.26,58.38,55.17,"Grouper,Anchovy",no
+2025-02-25,11.0943,112.2733,South China Sea,17.54,36.63,57.45,45.07,"Cod,Grouper",no
+2025-02-01,58.0942,-143.5659,Gulf of Alaska,15.8,32.92,54.02,75.25,"Cod,Anchovy",no
+2024-09-30,13.8117,60.08,Arabian Sea,21.02,34.82,43.29,57.02,"Sardine,Grouper,Anchovy",no
+2025-06-13,22.4689,65.9471,Arabian Sea,13.49,33.56,59.7,51.37,"Tuna,Cod,Mackerel",no
+2024-10-22,15.0679,67.2353,Arabian Sea,17.38,33.96,74.38,57.63,"Snapper,Sardine,Mackerel",no
+2025-07-06,-28.6809,-17.4056,South Atlantic,18.64,35.28,74.95,43.01,"Mackerel,Anchovy",no
+2025-09-14,-14.4414,73.9042,Indian Ocean,19.92,34.47,63.33,68.97,"Mackerel,Tuna",no
+2025-09-12,39.1914,-129.5998,Pacific Northwest,14.28,33.13,67.35,77.67,"Salmon,Anchovy,Grouper",no
+2025-02-23,35.6666,-29.2634,North Atlantic,19.64,35.84,61.31,52.88,"Cod,Salmon",no
+2025-05-29,14.6735,71.6549,Arabian Sea,13.53,33.9,64.52,67.73,"Sardine,Tuna,Snapper",yes
+2024-12-23,-15.7048,76.6522,Indian Ocean,32.9,33.67,46.17,59.33,"Anchovy,Tuna,Snapper",no
+2025-03-08,7.3505,111.5181,South China Sea,17.56,35.76,57.15,49.29,"Sardine,Mackerel,Salmon",no
+2024-11-30,-17.6953,84.3276,Indian Ocean,14.78,34.84,73.27,59.03,"Salmon,Grouper,Snapper",no
+2024-12-05,20.5793,60.2182,Arabian Sea,22.35,34.17,65.07,69.8,"Grouper,Snapper",no
+2025-02-21,20.1448,62.112,Arabian Sea,3.5,34.97,30.64,65.74,"Grouper,Mackerel,Tuna",no
+2024-12-14,14.9873,112.4614,South China Sea,29.52,32.41,46.87,65.11,"Anchovy,Cod",no
+2025-01-03,43.7039,-123.7919,Pacific Northwest,32.73,34.42,46.06,77.18,"Snapper,Cod,Anchovy",no
+2024-09-30,48.7693,-129.178,Pacific Northwest,18.64,34.02,44.86,62.63,"Mackerel,Anchovy,Sardine",no
+2025-09-02,47.9851,-128.27,Pacific Northwest,22.37,31.75,67.16,61.32,"Grouper,Tuna",no
+2025-05-30,-35.0777,-11.1654,South Atlantic,15.55,34.26,65.23,60.9,"Anchovy,Tuna,Mackerel",no
+2025-07-01,36.8766,-33.0727,North Atlantic,17.84,32.16,69.19,53.8,"Anchovy,Salmon,Tuna",no
+2024-11-30,11.8215,115.1879,South China Sea,18.83,33.96,62.71,64.73,"Anchovy,Cod,Sardine",no
+2024-10-04,19.5552,61.5618,Arabian Sea,24.55,33.13,65.41,61.38,"Tuna,Snapper",no
+2025-04-01,10.5715,85.1513,Bay of Bengal,11.69,31.93,63.6,54.58,"Salmon,Snapper,Cod",no
+2025-08-15,-16.7917,84.9511,Indian Ocean,15.59,32.02,73.13,52.49,"Grouper,Salmon,Snapper",no
+2025-03-03,42.538,-26.7534,North Atlantic,16.87,32.89,75.16,66.33,"Snapper,Salmon",no
+2025-03-08,10.3907,65.7862,Arabian Sea,18.43,33.76,52.23,50.61,"Cod,Mackerel,Grouper",no
+2025-04-15,12.3535,113.7504,South China Sea,33.62,33.97,49.92,54.89,"Mackerel,Grouper",no
+2024-12-19,10.2068,87.044,Bay of Bengal,15.32,31.07,81.99,43.89,"Anchovy,Salmon",no
+2025-02-21,-17.1858,83.2705,Indian Ocean,15.6,33.19,68.65,68.06,"Tuna,Sardine",no
+2025-07-15,46.5859,-127.7631,Pacific Northwest,21.2,33.79,49.14,71.12,"Mackerel,Sardine",no
+2025-01-27,15.8333,107.7165,South China Sea,29.86,33.97,49.45,60.09,"Grouper,Mackerel",no

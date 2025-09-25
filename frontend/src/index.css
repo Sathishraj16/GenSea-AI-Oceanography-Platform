@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-gradient: linear-gradient(135deg, #0e7490 0%, #1e3a8a 100%);
+}
+
+body {
+  background: var(--bg-gradient);
+  color: white;
+}
+
+.card {
+  @apply bg-slate-900/40 backdrop-blur rounded-xl shadow-ocean border border-white/10;
+}
+
+.tab-btn {
+  @apply px-4 py-2 rounded-lg font-semibold text-white/90 hover:text-white hover:bg-white/10 transition;
+}
+
+/* Typewriter-styled ocean card for AI reports */
+.typewriter-card {
+  @apply card p-5 bg-sky-900/40 border border-sky-300/20 shadow-ocean;
+}
+.typewriter-card pre {
+  position: relative;
+}
+.typewriter-card pre::after {
+  content: '▌';
+  position: absolute;
+  right: -0.25rem;
+  animation: blink 1s steps(1) infinite;
+  opacity: 0.8;
+}
+@keyframes blink {
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
+}
